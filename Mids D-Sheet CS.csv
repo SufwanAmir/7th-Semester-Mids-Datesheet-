@@ -1,0 +1,689 @@
+Date,Time,Class,Sec,ST,Course,Title,Instructor,Room,Cap.,Occ.,Block
+"Mon02-Nov-2026",08:30-09:50,BAE-5B,B,37,CSC325,Computer Organization and Assembly Language,Raja Rashid Mehmood,107,50,22,AB-II
+"Mon02-Nov-2026",08:30-09:50,BAE-5B,B,37,CSC325,Computer Organization and Assembly Language,Raja Rashid Mehmood,110,50,15,AB-II
+"Mon02-Nov-2026",08:30-09:50,BAI-2A,A,51,HUM120,Expository Writing,Mahnoor,106,50,25,AB-II
+"Mon02-Nov-2026",08:30-09:50,BAI-2A,A,51,HUM120,Expository Writing,Mahnoor,107,50,10,AB-II
+"Mon02-Nov-2026",08:30-09:50,BAI-2A,A,51,HUM120,Expository Writing,Mahnoor,108,46,16,AB-II
+"Mon02-Nov-2026",08:30-09:50,BAI-4A,A,46,CSC262,Artificial Intelligence,Umar Nauman,105,46,18,AB-II
+"Mon02-Nov-2026",08:30-09:50,BAI-4A,A,46,CSC262,Artificial Intelligence,Umar Nauman,112,46,23,AB-II
+"Mon02-Nov-2026",08:30-09:50,BAI-4A,A,46,CSC262,Artificial Intelligence,Umar Nauman,G-08,100,5,AB-II
+"Mon02-Nov-2026",08:30-09:50,BAI-4A,A,1,CSC462,Artificial Intelligence,Umar Nauman,105,46,1,AB-II
+"Mon02-Nov-2026",08:30-09:50,BAI-7A,A,51,CSC325,Computer Organization and Assembly Language,Raja Rashid Mehmood,110,50,10,AB-II
+"Mon02-Nov-2026",08:30-09:50,BAI-7A,A,51,CSC325,Computer Organization and Assembly Language,Raja Rashid Mehmood,G-05,100,41,AB-II
+"Mon02-Nov-2026",08:30-09:50,BAI-7A,A,7,CSC325,Computer Organization & Assembly Language,Raja Rashid Mehmood,G-05,100,7,AB-II
+"Mon02-Nov-2026",08:30-09:50,BCS-2A,A,52,HUM120,Expository Writing,"Mehmood Anwar (HybridHUM102)",107,50,14,AB-II
+"Mon02-Nov-2026",08:30-09:50,BCS-2A,A,52,HUM120,Expository Writing,"Mehmood Anwar (HybridHUM102)",110,50,25,AB-II
+"Mon02-Nov-2026",08:30-09:50,BCS-2A,A,52,HUM120,Expository Writing,"Mehmood Anwar (HybridHUM102)",111,50,13,AB-II
+"Mon02-Nov-2026",08:30-09:50,BCS-2B,B,62,HUM120,Expository Writing,"Mehmood Anwar (HybridHUM102)",111,50,12,AB-II
+"Mon02-Nov-2026",08:30-09:50,BCS-2B,B,62,HUM120,Expository Writing,"Mehmood Anwar (HybridHUM102)",G-05,100,50,AB-II
+"Mon02-Nov-2026",08:30-09:50,BCS-4A,A,44,CSC262,Artificial Intelligence,Umar Nauman,G-08,100,44,AB-II
+Date,Time,Class,Sec,ST,Course,Title,Instructor,Room,Cap.,Occ.,Block
+"Mon02-Nov-2026",08:30-09:50,BCS-4A,A,1,CSC462,Artificial Intelligence,Umar Nauman,G-08,100,1,AB-II
+"Mon02-Nov-2026",08:30-09:50,BCT-2A,A,64,HUM120,Expository Writing,Maham Malik,105,46,23,AB-II
+"Mon02-Nov-2026",08:30-09:50,BCT-2A,A,64,HUM120,Expository Writing,Maham Malik,212,50,15,AB-II
+"Mon02-Nov-2026",08:30-09:50,BCT-2A,A,64,HUM120,Expository Writing,Maham Malik,G-07,70,26,AB-II
+"Mon02-Nov-2026",08:30-09:50,BCT-5A,A,52,CYC303,Digital Forensics,Dr. Tehsin Kanwal,106,50,25,AB-II
+"Mon02-Nov-2026",08:30-09:50,BCT-5A,A,52,CYC303,Digital Forensics,Dr. Tehsin Kanwal,107,50,4,AB-II
+"Mon02-Nov-2026",08:30-09:50,BCT-5A,A,52,CYC303,Digital Forensics,Dr. Tehsin Kanwal,109,46,23,AB-II
+"Mon02-Nov-2026",08:30-09:50,BDS-2A,A,52,HUM120,Expository Writing,Mahnoor,108,46,7,AB-II
+"Mon02-Nov-2026",08:30-09:50,BDS-2A,A,52,HUM120,Expository Writing,Mahnoor,G-06,100,45,AB-II
+"Mon02-Nov-2026",08:30-09:50,BDS-3A,A,61,MTH104,Calculus and Analytic Geometry,Dr. Fawad Ali,111,50,25,AB-II
+"Mon02-Nov-2026",08:30-09:50,BDS-3A,A,61,MTH104,Calculus and Analytic Geometry,Dr. Fawad Ali,112,46,23,AB-II
+"Mon02-Nov-2026",08:30-09:50,BDS-3A,A,61,MTH104,Calculus and Analytic Geometry,Dr. Fawad Ali,G-06,100,13,AB-II
+"Mon02-Nov-2026",08:30-09:50,BSE-2A,A,59,HUM120,Expository Writing,Maham Malik,G-07,70,9,AB-II
+"Mon02-Nov-2026",08:30-09:50,BSE-2A,A,59,HUM120,Expository Writing,Maham Malik,G-08,100,50,AB-II
+"Mon02-Nov-2026",08:30-09:50,BSE-5A,A,1,CSC325,Computer Organization & Assembly Language,Raja Rashid Mehmood,G-05,100,1,AB-II
+"Mon02-Nov-2026",08:30-09:50,BSE-5A,A,36,CSC325,Computer Organization and Assembly Language,Raja Rashid Mehmood,G-05,100,1,AB-II
+"Mon02-Nov-2026",08:30-09:50,BSE-5A,A,36,CSC325,Computer Organization and Assembly Language,Raja Rashid Mehmood,G-07,70,35,AB-II
+"Mon02-Nov-2026",08:30-09:50,BSE-7A,A,41,CSE482,Automated Software Testing,Najmun Nisa,108,46,23,AB-II
+Date,Time,Class,Sec,ST,Course,Title,Instructor,Room,Cap.,Occ.,Block
+"Mon02-Nov-2026",08:30-09:50,BSE-7A,A,41,CSE482,Automated Software Testing,Najmun Nisa,109,46,18,AB-II
+"Mon02-Nov-2026",08:30-09:50,BSE-7B,B,47,CSE482,Automated Software Testing,Najmun Nisa,109,46,5,AB-II
+"Mon02-Nov-2026",08:30-09:50,BSE-7B,B,47,CSE482,Automated Software Testing,Najmun Nisa,G-06,100,42,AB-II
+"Mon02-Nov-2026",08:30-09:50,—,A,1,HUM102,Report Writing Skills,"Mehreen Fatima (HybridHUM102)",105,46,1,AB-II
+"Mon02-Nov-2026",11:30-12:50,BAI-4A,A,64,MTH262,Statistics and Probability Theory,Mudassrah,106,50,25,AB-II
+"Mon02-Nov-2026",11:30-12:50,BAI-4A,A,64,MTH262,Statistics and Probability Theory,Mudassrah,G-06,100,39,AB-II
+"Mon02-Nov-2026",11:30-12:50,BCT-5A,A,47,CSC323,Operating Systems,Hafiza Sundus Farooq,G-05,100,47,AB-II
+"Mon02-Nov-2026",11:30-12:50,BDS-3A,A,53,CSC270,Database Systems,Nusrat Shaheen,106,50,25,AB-II
+"Mon02-Nov-2026",11:30-12:50,BDS-3A,A,53,CSC270,Database Systems,Nusrat Shaheen,G-07,70,28,AB-II
+"Mon02-Nov-2026",11:30-12:50,BDS-4A,A,59,MTH262,Statistics and Probability Theory,Mudassrah,G-06,100,9,AB-II
+"Mon02-Nov-2026",11:30-12:50,BDS-4A,A,59,MTH262,Statistics and Probability Theory,Mudassrah,G-08,100,50,AB-II
+"Mon02-Nov-2026",11:30-12:50,BSE-4A,A,44,MTH262,Statistics and Probability Theory,Syed Ali Taqi,G-05,100,44,AB-II
+"Mon02-Nov-2026",11:30-12:50,BSE-5A,A,46,MTH105,Multivariable Calculus,Dr. Fahad Munir,G-08,100,46,AB-II
+"Mon02-Nov-2026",11:30-12:50,BSE-5B,B,39,CSC323,Operating Systems,Hafiza Sundus Farooq,G-05,100,3,AB-II
+"Mon02-Nov-2026",11:30-12:50,BSE-5B,B,39,CSC323,Operating Systems,Hafiza Sundus Farooq,G-06,100,36,AB-II
+"Mon02-Nov-2026",11:30-12:50,BSE-5B,A,2,CSC323,Principles of Operating Systems,Hafiza Sundus Farooq,G-06,100,2,AB-II
+"Mon02-Nov-2026",11:30-12:50,F,F,1,PHY124,Applied Physics,Muhammad Moosa,G-07,70,1,AB-II
+"Mon02-Nov-2026",13:00-14:20,BCT-3A,A,39,MTH104,Calculus and Analytic Geometry,Dr. Zahoor Shah,G-08,100,39,AB-II
+Date,Time,Class,Sec,ST,Course,Title,Instructor,Room,Cap.,Occ.,Block
+"Mon02-Nov-2026",13:00-14:20,BDS-1A,A,51,CSC101,"Applications of Information and CommunicationTechnologies",Mr. Waqas Ali,G-05,100,50,AB-II
+"Mon02-Nov-2026",13:00-14:20,BDS-1A,A,51,CSC101,"Applications of Information and CommunicationTechnologies",Mr. Waqas Ali,G-08,100,1,AB-II
+"Mon02-Nov-2026",13:00-14:20,BSE-3B,B,55,MTH104,Calculus and Analytic Geometry,Dr. Shumaila Javeed,G-05,100,48,AB-II
+"Mon02-Nov-2026",13:00-14:20,BSE-3B,B,55,MTH104,Calculus and Analytic Geometry,Dr. Shumaila Javeed,G-07,70,7,AB-II
+"Mon02-Nov-2026",14:30-15:50,"ALL PROGRAM8A",A,128,HUM430,French,Sadan Ali,G-05,100,28,AB-II
+"Mon02-Nov-2026",14:30-15:50,"ALL PROGRAM8A",A,128,HUM430,French,Sadan Ali,G-06,100,50,AB-II
+"Mon02-Nov-2026",14:30-15:50,"ALL PROGRAM8A",A,128,HUM430,French,Sadan Ali,G-08,100,50,AB-II
+"Mon02-Nov-2026",14:30-15:50,BAI-3A,A,36,EEE240,Fundamentals of Digital Logic Design,Muhammad Tahir Khan,G-07,70,31,AB-II
+"Mon02-Nov-2026",14:30-15:50,BAI-3A,A,36,EEE240,Fundamentals of Digital Logic Design,Muhammad Tahir Khan,G-08,100,5,AB-II
+"Mon02-Nov-2026",14:30-15:50,BCS-12,A,1,EEE440,Computer Architecture,Memoona Malik,105,46,1,AB-II
+"Mon02-Nov-2026",14:30-15:50,BCS-3A,A,45,EEE240,Fundamentals of Digital Logic Design,Muhammad Tahir Khan,G-08,100,45,AB-II
+"Mon02-Nov-2026",14:30-15:50,BCS-3B,B,59,EEE240,Fundamentals of Digital Logic Design,Dr. Rizwan Azam,106,50,9,AB-II
+"Mon02-Nov-2026",14:30-15:50,BCS-3B,B,59,EEE240,Fundamentals of Digital Logic Design,Dr. Rizwan Azam,G-06,100,50,AB-II
+"Mon02-Nov-2026",14:30-15:50,BCS-6AB,A,76,AIC341,Introduction to Computer Vision,Dr. Tahir Mustafa Madni,G-05,100,41,AB-II
+"Mon02-Nov-2026",14:30-15:50,BCS-6AB,A,76,AIC341,Introduction to Computer Vision,Dr. Tahir Mustafa Madni,G-07,70,35,AB-II
+"Mon02-Nov-2026",14:30-15:50,BDS-4A,A,3,CYC410,Professional Practices for Cyber Security,Omer Vikas,105,46,3,AB-II
+"Mon02-Nov-2026",14:30-15:50,BSE-4A,A,1,CYC410,Professional Practices for Cyber Security,Sana Nasir,105,46,1,AB-II
+"Mon02-Nov-2026",14:30-15:50,BSE-6A,A,51,AIC354,Machine Learning Fundamentals,Asma Khalid Butt,106,50,20,AB-II
+Date,Time,Class,Sec,ST,Course,Title,Instructor,Room,Cap.,Occ.,Block
+"Mon02-Nov-2026",14:30-15:50,BSE-6A,A,51,AIC354,Machine Learning Fundamentals,Asma Khalid Butt,G-05,100,31,AB-II
+"Mon02-Nov-2026",16:00-17:20,"ALL PROGRAM8A",A,147,HUM434,Chinese,Gulshan Yasmin,G-05,100,47,AB-II
+"Mon02-Nov-2026",16:00-17:20,"ALL PROGRAM8A",A,147,HUM434,Chinese,Gulshan Yasmin,G-06,100,50,AB-II
+"Mon02-Nov-2026",16:00-17:20,"ALL PROGRAM8A",A,147,HUM434,Chinese,Gulshan Yasmin,G-08,100,50,AB-II
+"Mon02-Nov-2026",16:00-17:20,BAI-2A,A,49,HUM121,Technical and Business Writing,Mahmood-ul-Hassan,105,46,18,AB-II
+"Mon02-Nov-2026",16:00-17:20,BAI-2A,A,49,HUM121,Technical and Business Writing,Mahmood-ul-Hassan,G-05,100,31,AB-II
+"Mon02-Nov-2026",16:00-17:20,BAI-5A,A,42,CSC301,Design and Analysis of Algorithms,Tanveer Ahmed,106,50,23,AB-II
+"Mon02-Nov-2026",16:00-17:20,BAI-5A,A,42,CSC301,Design and Analysis of Algorithms,Tanveer Ahmed,107,50,19,AB-II
+"Mon02-Nov-2026",16:00-17:20,BCS-5B,B,36,CSC301,Design and Analysis of Algorithms,Tanveer Ahmed,107,50,6,AB-II
+"Mon02-Nov-2026",16:00-17:20,BCS-5B,B,36,CSC301,Design and Analysis of Algorithms,Tanveer Ahmed,G-07,70,30,AB-II
+"Mon02-Nov-2026",16:00-17:20,BCS-7A,A,33,HUM121,Technical and Business Writing,Maria Khan,106,50,25,AB-II
+"Mon02-Nov-2026",16:00-17:20,BCS-7A,A,33,HUM121,Technical and Business Writing,Maria Khan,107,50,8,AB-II
+"Mon02-Nov-2026",16:00-17:20,BCS-7B,B,45,HUM121,Technical and Business Writing,Maria Khan,107,50,17,AB-II
+"Mon02-Nov-2026",16:00-17:20,BCS-7B,B,45,HUM121,Technical and Business Writing,Maria Khan,110,50,25,AB-II
+"Mon02-Nov-2026",16:00-17:20,BCS-7B,B,45,HUM121,Technical and Business Writing,Maria Khan,111,50,3,AB-II
+"Mon02-Nov-2026",16:00-17:20,BCT-6A,A,53,MTH231,Linear Algebra,Dr. Adeel Ahmed,108,46,23,AB-II
+"Mon02-Nov-2026",16:00-17:20,BCT-6A,A,53,MTH231,Linear Algebra,Dr. Adeel Ahmed,110,50,25,AB-II
+"Mon02-Nov-2026",16:00-17:20,BCT-6A,A,53,MTH231,Linear Algebra,Dr. Adeel Ahmed,G-07,70,5,AB-II
+Date,Time,Class,Sec,ST,Course,Title,Instructor,Room,Cap.,Occ.,Block
+"Mon02-Nov-2026",16:00-17:20,BCT-7A,A,33,HUM121,Technical and Business Writing,Moniba Umar,109,46,10,AB-II
+"Mon02-Nov-2026",16:00-17:20,BCT-7A,A,33,HUM121,Technical and Business Writing,Moniba Umar,112,46,23,AB-II
+"Mon02-Nov-2026",16:00-17:20,BDS-7A,A,53,HUM121,Technical and Business Writing,Maria Khan,111,50,18,AB-II
+"Mon02-Nov-2026",16:00-17:20,BDS-7A,A,53,HUM121,Technical and Business Writing,Maria Khan,G-07,70,35,AB-II
+"Mon02-Nov-2026",16:00-17:20,BSE-2A,A,55,HUM121,Technical and Business Writing,Mahmood-ul-Hassan,G-05,100,19,AB-II
+"Mon02-Nov-2026",16:00-17:20,BSE-2A,A,55,HUM121,Technical and Business Writing,Mahmood-ul-Hassan,G-06,100,36,AB-II
+"Mon02-Nov-2026",16:00-17:20,BSE-7B,B,64,HUM121,Technical and Business Writing,Mahmood-ul-Hassan,G-06,100,14,AB-II
+"Mon02-Nov-2026",16:00-17:20,BSE-7B,B,64,HUM121,Technical and Business Writing,Mahmood-ul-Hassan,G-08,100,50,AB-II
+"Tue03-Nov-2026",08:30-09:50,BAI-1A,A,52,HUM112,Islamic Studies,Tanawish Iftikhar,106,50,25,AB-II
+"Tue03-Nov-2026",08:30-09:50,BAI-1A,A,52,HUM112,Islamic Studies,Tanawish Iftikhar,G-06,100,27,AB-II
+"Tue03-Nov-2026",08:30-09:50,BCS-1A,A,52,HUM112,Islamic Studies,Khurram Shahzad,105,46,14,AB-II
+"Tue03-Nov-2026",08:30-09:50,BCS-1A,A,52,HUM112,Islamic Studies,Khurram Shahzad,108,46,23,AB-II
+"Tue03-Nov-2026",08:30-09:50,BCS-1A,A,52,HUM112,Islamic Studies,Khurram Shahzad,109,46,15,AB-II
+"Tue03-Nov-2026",08:30-09:50,BCS-1B,B,50,HUM112,Islamic Studies,Khurram Shahzad,109,46,8,AB-II
+"Tue03-Nov-2026",08:30-09:50,BCS-1B,B,50,HUM112,Islamic Studies,Khurram Shahzad,110,50,25,AB-II
+"Tue03-Nov-2026",08:30-09:50,BCS-1B,B,50,HUM112,Islamic Studies,Khurram Shahzad,111,50,17,AB-II
+"Tue03-Nov-2026",08:30-09:50,BCS-4B,B,39,MTH262,Statistics and Probability Theory,Lubna Waqar,G-07,70,32,AB-II
+"Tue03-Nov-2026",08:30-09:50,BCS-4B,B,39,MTH262,Statistics and Probability Theory,Lubna Waqar,G-08,100,7,AB-II
+Date,Time,Class,Sec,ST,Course,Title,Instructor,Room,Cap.,Occ.,Block
+"Tue03-Nov-2026",08:30-09:50,BCT-1A,A,56,HUM112,Islamic Studies,Tanawish Iftikhar,G-06,100,23,AB-II
+"Tue03-Nov-2026",08:30-09:50,BCT-1A,A,56,HUM112,Islamic Studies,Tanawish Iftikhar,G-07,70,33,AB-II
+"Tue03-Nov-2026",08:30-09:50,BCT-4A,A,54,CSC262,Artificial Intelligence,Ms. Farah Saeed,106,50,19,AB-II
+"Tue03-Nov-2026",08:30-09:50,BCT-4A,A,54,CSC262,Artificial Intelligence,Ms. Farah Saeed,110,50,23,AB-II
+"Tue03-Nov-2026",08:30-09:50,BCT-4A,A,54,CSC262,Artificial Intelligence,Ms. Farah Saeed,G-05,100,12,AB-II
+"Tue03-Nov-2026",08:30-09:50,BCT-4A,A,3,CSC462,Artificial Intelligence,Ms. Farah Saeed,106,50,3,AB-II
+"Tue03-Nov-2026",08:30-09:50,BCT-4A,A,3,CSC462,Artificial Intelligence,Ms. Farah Saeed,106,50,3,AB-II
+"Tue03-Nov-2026",08:30-09:50,BCT-6A,A,43,MTH262,Statistics and Probability Theory,Lubna Waqar,G-08,100,43,AB-II
+"Tue03-Nov-2026",08:30-09:50,BDS-1A,A,51,HUM112,Islamic Studies,Tanawish Iftikhar,G-07,70,2,AB-II
+"Tue03-Nov-2026",08:30-09:50,BDS-1A,A,51,HUM112,Islamic Studies,Tanawish Iftikhar,G-08,100,49,AB-II
+"Tue03-Nov-2026",08:30-09:50,BDS-4A,A,55,CSC262,Artificial Intelligence,Ms. Farah Saeed,G-05,100,5,AB-II
+"Tue03-Nov-2026",08:30-09:50,BDS-4A,A,55,CSC262,Artificial Intelligence,Ms. Farah Saeed,G-06,100,50,AB-II
+"Tue03-Nov-2026",08:30-09:50,BSE-1A,A,58,HUM112,Islamic Studies,Khurram Shahzad,111,50,8,AB-II
+"Tue03-Nov-2026",08:30-09:50,BSE-1A,A,58,HUM112,Islamic Studies,Khurram Shahzad,G-05,100,50,AB-II
+"Tue03-Nov-2026",08:30-09:50,BSE-4A,A,52,CSC232,Information Security,Sara Ali,107,50,19,AB-II
+"Tue03-Nov-2026",08:30-09:50,BSE-4A,A,52,CSC232,Information Security,Sara Ali,G-05,100,33,AB-II
+"Tue03-Nov-2026",08:30-09:50,BSE-4A,A,6,CSC432,Information Security,Sara Ali,107,50,6,AB-II
+"Tue03-Nov-2026",08:30-09:50,F,F,1,HUM220,Introduction to Psychology,saadia younas,107,50,1,AB-II
+Date,Time,Class,Sec,ST,Course,Title,Instructor,Room,Cap.,Occ.,Block
+"Tue03-Nov-2026",10:00-11:20,BAI-2A,A,63,CSC102,Discrete Structures,Dr. Sheneela Naz,G-06,100,37,AB-II
+"Tue03-Nov-2026",10:00-11:20,BAI-2A,A,63,CSC102,Discrete Structures,Dr. Sheneela Naz,G-07,70,26,AB-II
+"Tue03-Nov-2026",10:00-11:20,BAI-4A,A,58,AIC354,Machine Learning Fundamentals,Dr. Usman Yaseen,G-05,100,50,AB-II
+"Tue03-Nov-2026",10:00-11:20,BAI-4A,A,58,AIC354,Machine Learning Fundamentals,Dr. Usman Yaseen,G-06,100,8,AB-II
+"Tue03-Nov-2026",10:00-11:20,BCS-6AB,A,79,CSC312,Theory of Automata,Salman Aslam,G-05,100,43,AB-II
+"Tue03-Nov-2026",10:00-11:20,BCS-6AB,A,1,CSC312,Theory of Automata,Salman Aslam,G-05,100,1,AB-II
+"Tue03-Nov-2026",10:00-11:20,BCS-6AB,A,79,CSC312,Theory of Automata,Salman Aslam,G-08,100,36,AB-II
+"Tue03-Nov-2026",10:00-11:20,BCT-2A,A,59,CSC102,Discrete Structures,Dr. Sheneela Naz,G-07,70,9,AB-II
+"Tue03-Nov-2026",10:00-11:20,BCT-2A,A,59,CSC102,Discrete Structures,Dr. Sheneela Naz,G-08,100,50,AB-II
+"Tue03-Nov-2026",10:00-11:20,BSE-6A,A,48,CSE325,Software Construction and Development,Dr. Iftikhar Azim Niaz,G-06,100,48,AB-II
+"Tue03-Nov-2026",10:00-11:20,F,F,1,CSC475,Numerical Computing,Dr. Manshoor Ahmed,G-07,70,1,AB-II
+"Tue03-Nov-2026",10:00-11:20,F,F,8,MTH242,Differential Equations,Dr. Javeria Nawaz Abbasi,G-08,100,8,AB-II
+"Tue03-Nov-2026",10:00-11:20,F,F,1,PHY121,Applied Physics for Engineers,Huma Habib,G-07,70,1,AB-II
+"Tue03-Nov-2026",10:00-11:20,Phy-R,F,6,PHY121,Applied Physics for Engineers,Dr. Muhammad Zain Mobeen,G-08,100,6,AB-II
+"Tue03-Nov-2026",11:30-12:50,BAI-6A,A,49,CSC275,Computer Networks,Shafaq Rasheed,106,50,24,AB-II
+"Tue03-Nov-2026",11:30-12:50,BAI-6A,A,49,CSC275,Computer Networks,Shafaq Rasheed,107,50,25,AB-II
+"Tue03-Nov-2026",11:30-12:50,BAI-6A,A,1,CSC340,Computer Networks,Shafaq Rasheed,106,50,1,AB-II
+"Tue03-Nov-2026",11:30-12:50,BCS-2A,A,55,CSC102,Discrete Structures,Mr. Haseeb ur Rehman,111,50,25,AB-II
+Date,Time,Class,Sec,ST,Course,Title,Instructor,Room,Cap.,Occ.,Block
+"Tue03-Nov-2026",11:30-12:50,BCS-2A,A,55,CSC102,Discrete Structures,Mr. Haseeb ur Rehman,G-06,100,30,AB-II
+"Tue03-Nov-2026",11:30-12:50,BCS-2B,B,63,CSC102,Discrete Structures,Mr. Haseeb ur Rehman,G-06,100,13,AB-II
+"Tue03-Nov-2026",11:30-12:50,BCS-2B,B,63,CSC102,Discrete Structures,Mr. Haseeb ur Rehman,G-08,100,50,AB-II
+"Tue03-Nov-2026",11:30-12:50,BCS-4A,A,63,MTH262,Statistics and Probability Theory,Dr. Amna Nazeer,107,50,23,AB-II
+"Tue03-Nov-2026",11:30-12:50,BCS-4A,A,63,MTH262,Statistics and Probability Theory,Dr. Amna Nazeer,G-05,100,40,AB-II
+"Tue03-Nov-2026",11:30-12:50,BCT-4,A,1,MGT210,Fundamentals of Marketing,sadia maryam,106,50,1,AB-II
+"Tue03-Nov-2026",11:30-12:50,BCT-4A,A,58,CSC275,Computer Networks,Shafaq Rasheed,108,46,23,AB-II
+"Tue03-Nov-2026",11:30-12:50,BCT-4A,A,58,CSC275,Computer Networks,Shafaq Rasheed,G-07,70,35,AB-II
+"Tue03-Nov-2026",11:30-12:50,BCT-8A,A,45,MTH262,Statistics and Probability Theory,Dr. Amna Nazeer,G-05,100,10,AB-II
+"Tue03-Nov-2026",11:30-12:50,BCT-8A,A,45,MTH262,Statistics and Probability Theory,Dr. Amna Nazeer,G-07,70,35,AB-II
+"Tue03-Nov-2026",11:30-12:50,BDS-3A,A,47,DSC293,Data Science Fundamentals,Saira Beg,G-05,100,47,AB-II
+"Tue03-Nov-2026",11:30-12:50,BSE-5AB,A,86,CSE303,Software Design and Architecture,Dr. Iftikhar Azim Niaz,G-06,100,36,AB-II
+"Tue03-Nov-2026",11:30-12:50,BSE-5AB,A,86,CSE303,Software Design and Architecture,Dr. Iftikhar Azim Niaz,G-08,100,50,AB-II
+"Tue03-Nov-2026",13:00-14:20,BAI-5A,A,58,AIC341,Introduction to Computer Vision,Ms. Maheen Gul,G-05,100,50,AB-II
+"Tue03-Nov-2026",13:00-14:20,BAI-5A,A,58,AIC341,Introduction to Computer Vision,Ms. Maheen Gul,G-06,100,8,AB-II
+"Tue03-Nov-2026",13:00-14:20,BCS-5A,A,53,MTH105,Multivariable Calculus,Dr. Bilal Ashraf,G-05,100,49,AB-II
+"Tue03-Nov-2026",13:00-14:20,BCS-5A,A,53,MTH105,Multivariable Calculus,Dr. Bilal Ashraf,G-06,100,4,AB-II
+"Tue03-Nov-2026",13:00-14:20,BCS-5B,B,54,MTH105,Multivariable Calculus,Dr. Bilal Ashraf,G-06,100,46,AB-II
+Date,Time,Class,Sec,ST,Course,Title,Instructor,Room,Cap.,Occ.,Block
+"Tue03-Nov-2026",13:00-14:20,BCS-5B,B,54,MTH105,Multivariable Calculus,Dr. Bilal Ashraf,G-08,100,8,AB-II
+"Tue03-Nov-2026",13:00-14:20,BCT-7A,A,34,CYC378,Penetration Testing,Mr. Ehtisham Dawood,G-07,70,34,AB-II
+"Tue03-Nov-2026",13:00-14:20,BDS-7A,A,1,DSC410,Cloud Computing,Qasim Malik,G-05,100,1,AB-II
+"Tue03-Nov-2026",13:00-14:20,—,A,2,DSC415,Big Data Analytics,Mr. Muhammad Rashid Mukhtar,G-08,100,2,AB-II
+"Tue03-Nov-2026",14:30-15:50,BAI-2A,A,55,BIO310,Introduction to Bioinformatics,Dr. Muhammad Sajjad,106,50,25,AB-II
+"Tue03-Nov-2026",14:30-15:50,BAI-2A,A,55,BIO310,Introduction to Bioinformatics,Dr. Muhammad Sajjad,G-05,100,30,AB-II
+"Tue03-Nov-2026",14:30-15:50,BCS-3A,A,62,CSC270,Database Systems,Dr. Rubina Adnan,G-06,100,30,AB-II
+"Tue03-Nov-2026",14:30-15:50,BCS-3A,A,62,CSC270,Database Systems,Dr. Rubina Adnan,G-07,70,32,AB-II
+"Tue03-Nov-2026",14:30-15:50,BCS-3B,B,51,CSC270,Database Systems,Dr. Rubina Adnan,G-07,70,3,AB-II
+"Tue03-Nov-2026",14:30-15:50,BCS-3B,B,51,CSC270,Database Systems,Dr. Rubina Adnan,G-08,100,48,AB-II
+"Tue03-Nov-2026",14:30-15:50,BCT-5A,A,45,MTH105,Multivariable Calculus,Dr. Manshoor Ahmed,106,50,19,AB-II
+"Tue03-Nov-2026",14:30-15:50,BCT-5A,A,45,MTH105,Multivariable Calculus,Dr. Manshoor Ahmed,107,50,24,AB-II
+"Tue03-Nov-2026",14:30-15:50,BCT-5A,A,45,MTH105,Multivariable Calculus,Dr. Manshoor Ahmed,111,50,2,AB-II
+"Tue03-Nov-2026",14:30-15:50,BCT-7A,A,4,DSC413,Topics in Data Science,Dr. Muhammad Imran,106,50,4,AB-II
+"Tue03-Nov-2026",14:30-15:50,BDS-2A,A,49,BIO310,Introduction to Bioinformatics,Dr. Muhammad Sajjad,G-05,100,18,AB-II
+"Tue03-Nov-2026",14:30-15:50,BDS-2A,A,49,BIO310,Introduction to Bioinformatics,Dr. Muhammad Sajjad,G-07,70,31,AB-II
+"Tue03-Nov-2026",14:30-15:50,BDS-5A,A,59,MTH105,Multivariable Calculus,Dr. Manshoor Ahmed,111,50,23,AB-II
+"Tue03-Nov-2026",14:30-15:50,BDS-5A,A,59,MTH105,Multivariable Calculus,Dr. Manshoor Ahmed,G-06,100,36,AB-II
+Date,Time,Class,Sec,ST,Course,Title,Instructor,Room,Cap.,Occ.,Block
+"Tue03-Nov-2026",14:30-15:50,BDS-7A,A,1,DSC413,Topics in Data Science,Qasim Malik,106,50,1,AB-II
+"Tue03-Nov-2026",14:30-15:50,BSE-2A,A,59,BIO310,Introduction to Bioinformatics,Dr. Farhan Haq,107,50,25,AB-II
+"Tue03-Nov-2026",14:30-15:50,BSE-2A,A,59,BIO310,Introduction to Bioinformatics,Dr. Farhan Haq,G-06,100,34,AB-II
+"Tue03-Nov-2026",14:30-15:50,BSE-7A,A,37,CSE302,Software Quality Engineering,Dr. Uzair Iqbal,G-05,100,37,AB-II
+"Tue03-Nov-2026",14:30-15:50,BSE-7A,A,4,CSE302,Software Quality Engineering,Dr. Uzair Iqbal,G-05,100,4,AB-II
+"Tue03-Nov-2026",14:30-15:50,BSE-7B,B,48,CSE302,Software Quality Engineering,Dr. Uzair Iqbal,G-05,100,9,AB-II
+"Tue03-Nov-2026",14:30-15:50,BSE-7B,B,48,CSE302,Software Quality Engineering,Dr. Uzair Iqbal,G-08,100,39,AB-II
+"Tue03-Nov-2026",14:30-15:50,F,F,2,MGT101,Introduction to Management,Muhammad Arsalan Khan,111,50,2,AB-II
+"Tue03-Nov-2026",14:30-15:50,F,F,1,MGT101,Introduction to Management,Salima Hafeez,G-07,70,1,AB-II
+"Tue03-Nov-2026",16:00-17:20,BAI-4A,A,63,CSC232,Information Security,Haseena Kainat,107,50,21,AB-II
+"Tue03-Nov-2026",16:00-17:20,BAI-4A,A,63,CSC232,Information Security,Haseena Kainat,111,50,23,AB-II
+"Tue03-Nov-2026",16:00-17:20,BAI-4A,A,63,CSC232,Information Security,Haseena Kainat,G-05,100,19,AB-II
+"Tue03-Nov-2026",16:00-17:20,BAI-4A,A,4,CSC432,Information Security,Haseena Kainat,107,50,4,AB-II
+"Tue03-Nov-2026",16:00-17:20,BCS-4A,A,57,CSC232,Information Security,Haseena Kainat,G-05,100,31,AB-II
+"Tue03-Nov-2026",16:00-17:20,BCS-4A,A,57,CSC232,Information Security,Haseena Kainat,G-06,100,26,AB-II
+"Tue03-Nov-2026",16:00-17:20,BCS-4B,B,53,CSC232,Information Security,Haseena Kainat,G-06,100,23,AB-II
+"Tue03-Nov-2026",16:00-17:20,BCS-4B,B,53,CSC232,Information Security,Haseena Kainat,G-08,100,30,AB-II
+"Tue03-Nov-2026",16:00-17:20,BCS-4B,B,1,CSC432,Information Security,Haseena Kainat,G-06,100,1,AB-II
+Date,Time,Class,Sec,ST,Course,Title,Instructor,Room,Cap.,Occ.,Block
+"Tue03-Nov-2026",16:00-17:20,BCT-3A,A,51,CSC232,Information Security,Dr. Tehsin Kanwal,G-07,70,35,AB-II
+"Tue03-Nov-2026",16:00-17:20,BCT-3A,A,51,CSC232,Information Security,Dr. Tehsin Kanwal,G-08,100,16,AB-II
+"Tue03-Nov-2026",16:00-17:20,BCT-3A,A,4,CSC432,Information Security,Dr. Tehsin Kanwal,G-08,100,4,AB-II
+"Tue03-Nov-2026",16:00-17:20,BCT-4,A,2,EEE241,Digital Logic Design,Dr. Irfan Latif,G-08,100,2,AB-II
+"Tue03-Nov-2026",16:00-17:20,BDS-6A,A,50,AIC365,Natural Language Processing,Anum Zehra,G-06,100,50,AB-II
+"Tue03-Nov-2026",16:00-17:20,BDS-7A,A,44,AIC365,Natural Language Processing,Anum Zehra,G-08,100,44,AB-II
+"Wed04-Nov-2026",08:30-09:50,BAI-4A,A,54,CSC417,E-Commerce and Digital Marketing,Khurram Iqbal,111,50,18,AB-II
+"Wed04-Nov-2026",08:30-09:50,BAI-4A,A,54,CSC417,E-Commerce and Digital Marketing,Khurram Iqbal,G-05,100,36,AB-II
+"Wed04-Nov-2026",08:30-09:50,BAI-5A,A,56,CSC336,Web Technologies,Aamir Shabbir Pare,105,46,21,AB-II
+"Wed04-Nov-2026",08:30-09:50,BAI-5A,A,56,CSC336,Web Technologies,Aamir Shabbir Pare,G-07,70,35,AB-II
+"Wed04-Nov-2026",08:30-09:50,BCS-4A,A,49,HUM113,Ideology and Constitution of Pakistan,Mehreen Ikram,105,46,16,AB-II
+"Wed04-Nov-2026",08:30-09:50,BCS-4A,A,49,HUM113,Ideology and Constitution of Pakistan,Mehreen Ikram,108,46,23,AB-II
+"Wed04-Nov-2026",08:30-09:50,BCS-4A,A,49,HUM113,Ideology and Constitution of Pakistan,Mehreen Ikram,G-05,100,10,AB-II
+"Wed04-Nov-2026",08:30-09:50,BCS-4B,B,40,HUM113,Ideology and Constitution of Pakistan,Mehreen Ikram,G-05,100,40,AB-II
+"Wed04-Nov-2026",08:30-09:50,BCS-6AB,A,74,CSC303,Mobile Application Development,Mr. Adnan Karamat,110,50,25,AB-II
+"Wed04-Nov-2026",08:30-09:50,BCS-6AB,A,74,CSC303,Mobile Application Development,Mr. Adnan Karamat,G-06,100,49,AB-II
+"Wed04-Nov-2026",08:30-09:50,BCT-4A,A,52,CSC417,E-Commerce and Digital Marketing,sadia maryam,107,50,24,AB-II
+"Wed04-Nov-2026",08:30-09:50,BCT-4A,A,52,CSC417,E-Commerce and Digital Marketing,sadia maryam,G-08,100,28,AB-II
+Date,Time,Class,Sec,ST,Course,Title,Instructor,Room,Cap.,Occ.,Block
+"Wed04-Nov-2026",08:30-09:50,BCT-6A,A,6,CSC325,Computer Organization & Assembly Language,Dr. Ali Raza Shahid,106,50,6,AB-II
+"Wed04-Nov-2026",08:30-09:50,BCT-6A,A,43,CSC325,Computer Organization and Assembly Language,Dr. Ali Raza Shahid,106,50,18,AB-II
+"Wed04-Nov-2026",08:30-09:50,BCT-6A,A,43,CSC325,Computer Organization and Assembly Language,Dr. Ali Raza Shahid,110,50,25,AB-II
+"Wed04-Nov-2026",08:30-09:50,BCT-7A,A,37,CSC303,Mobile Application Development,Sara Ali,108,46,19,AB-II
+"Wed04-Nov-2026",08:30-09:50,BCT-7A,A,37,CSC303,Mobile Application Development,Sara Ali,111,50,18,AB-II
+"Wed04-Nov-2026",08:30-09:50,BDS-4A,A,53,CSC417,E-Commerce and Digital Marketing,Khurram Iqbal,G-05,100,12,AB-II
+"Wed04-Nov-2026",08:30-09:50,BDS-4A,A,53,CSC417,E-Commerce and Digital Marketing,Khurram Iqbal,G-06,100,41,AB-II
+"Wed04-Nov-2026",08:30-09:50,BS-R,R,59,CSC103,Programming Fundamentals,Sadia Asif Malik,107,50,25,AB-II
+"Wed04-Nov-2026",08:30-09:50,BS-R,R,59,CSC103,Programming Fundamentals,Sadia Asif Malik,G-08,100,34,AB-II
+"Wed04-Nov-2026",08:30-09:50,BSE-4A,A,44,CSC417,E-Commerce and Digital Marketing,Khurram Iqbal,G-06,100,9,AB-II
+"Wed04-Nov-2026",08:30-09:50,BSE-4A,A,44,CSC417,E-Commerce and Digital Marketing,Khurram Iqbal,G-07,70,35,AB-II
+"Wed04-Nov-2026",08:30-09:50,BSE-6A,A,45,CSC303,Mobile Application Development,Sara Ali,111,50,7,AB-II
+"Wed04-Nov-2026",08:30-09:50,BSE-6A,A,45,CSC303,Mobile Application Development,Sara Ali,G-08,100,38,AB-II
+"Wed04-Nov-2026",08:30-09:50,—,A,3,HUM111,Pakistan Studies,Nadia Khalid (Hybrid HUM102),106,50,3,AB-II
+"Wed04-Nov-2026",10:00-11:20,BAI-8A,A,48,AIC410,Professional Practices in AI,Umar Sheraz,G-06,100,48,AB-II
+"Wed04-Nov-2026",10:00-11:20,BCT-1A,A,3,CSC101,"Applications of Information and CommunicationTechnologies",Haseena Kainat,G-07,70,2,AB-II
+"Wed04-Nov-2026",10:00-11:20,BCT-1A,A,53,CSC101,"Application of Information and CommunicationTechnologies",Haseena Kainat,G-07,70,33,AB-II
+"Wed04-Nov-2026",10:00-11:20,BCT-1A,A,53,CSC101,"Application of Information and CommunicationTechnologies",Haseena Kainat,G-08,100,20,AB-II
+Date,Time,Class,Sec,ST,Course,Title,Instructor,Room,Cap.,Occ.,Block
+"Wed04-Nov-2026",10:00-11:20,BCT-1A,A,3,CSC101,"Applications of Information and CommunicationTechnologies",Haseena Kainat,G-08,100,1,AB-II
+"Wed04-Nov-2026",10:00-11:20,BCT-5A,A,3,CYC475,Topics in Cyber Security,Mr. Muhammad Rashid Mukhtar,G-08,100,3,AB-II
+"Wed04-Nov-2026",11:30-12:50,BAI-6A,A,63,CSC303,Mobile Application Development,Mr. Shujat Hussain,108,46,23,AB-II
+"Wed04-Nov-2026",11:30-12:50,BAI-6A,A,63,CSC303,Mobile Application Development,Mr. Shujat Hussain,110,50,8,AB-II
+"Wed04-Nov-2026",11:30-12:50,BAI-6A,A,63,CSC303,Mobile Application Development,Mr. Shujat Hussain,G-07,70,32,AB-II
+"Wed04-Nov-2026",11:30-12:50,BCS-2A,A,51,BIO310,Introduction to Bioinformatics,Maryam Mehmood,107,50,12,AB-II
+"Wed04-Nov-2026",11:30-12:50,BCS-2A,A,51,BIO310,Introduction to Bioinformatics,Maryam Mehmood,G-05,100,39,AB-II
+"Wed04-Nov-2026",11:30-12:50,BCS-2B,B,61,BIO310,Introduction to Bioinformatics,Maryam Mehmood,G-05,100,11,AB-II
+"Wed04-Nov-2026",11:30-12:50,BCS-2B,B,61,BIO310,Introduction to Bioinformatics,Maryam Mehmood,G-08,100,50,AB-II
+"Wed04-Nov-2026",11:30-12:50,BCS-5A,A,2,CSC325,Computer Organization & Assembly Language,Taimur Shahzad,106,50,1,AB-II
+"Wed04-Nov-2026",11:30-12:50,BCS-5A,A,47,CSC325,Computer Organization and Assembly Language,Taimur Shahzad,106,50,24,AB-II
+"Wed04-Nov-2026",11:30-12:50,BCS-5A,A,47,CSC325,Computer Organization and Assembly Language,Taimur Shahzad,112,46,22,AB-II
+"Wed04-Nov-2026",11:30-12:50,BCS-5A,A,47,CSC325,Computer Organization and Assembly Language,Taimur Shahzad,G-05,100,1,AB-II
+"Wed04-Nov-2026",11:30-12:50,BCS-5A,A,2,CSC325,Computer Organization & Assembly Language,Taimur Shahzad,G-05,100,1,AB-II
+"Wed04-Nov-2026",11:30-12:50,BCS-5B,B,2,CSC325,Computer Organization & Assembly Language,Taimur Shahzad,G-05,100,2,AB-II
+"Wed04-Nov-2026",11:30-12:50,BCS-5B,B,41,CSC325,Computer Organization and Assembly Language,Taimur Shahzad,G-05,100,41,AB-II
+"Wed04-Nov-2026",11:30-12:50,BCT-2A,A,61,BIO310,Introduction to Bioinformatics,Dr. Hassaan Mehboob Awan,106,50,25,AB-II
+"Wed04-Nov-2026",11:30-12:50,BCT-2A,A,61,BIO310,Introduction to Bioinformatics,Dr. Hassaan Mehboob Awan,107,50,13,AB-II
+Date,Time,Class,Sec,ST,Course,Title,Instructor,Room,Cap.,Occ.,Block
+"Wed04-Nov-2026",11:30-12:50,BCT-2A,A,61,BIO310,Introduction to Bioinformatics,Dr. Hassaan Mehboob Awan,112,46,23,AB-II
+"Wed04-Nov-2026",11:30-12:50,BDS-3A,A,46,EEE240,Fundamentals of Digital Logic Design,Dr. Ahmed Naseem Alvi,G-06,100,46,AB-II
+"Wed04-Nov-2026",11:30-12:50,BDS-6A,A,48,CSC275,Computer Networks,Ms. Ayesha Hussain,110,50,16,AB-II
+"Wed04-Nov-2026",11:30-12:50,BDS-6A,A,48,CSC275,Computer Networks,Ms. Ayesha Hussain,G-07,70,32,AB-II
+"Wed04-Nov-2026",11:30-12:50,BDS-6A,A,1,CSC340,Computer Networks,Ms. Ayesha Hussain,110,50,1,AB-II
+"Wed04-Nov-2026",11:30-12:50,BDS-7A,A,49,CSC325,Computer Organization and Assembly Language,Taimur Shahzad,G-05,100,5,AB-II
+"Wed04-Nov-2026",11:30-12:50,BDS-7A,A,49,CSC325,Computer Organization and Assembly Language,Taimur Shahzad,G-06,100,44,AB-II
+"Wed04-Nov-2026",11:30-12:50,BDS-7A,A,6,CSC325,Computer Organization & Assembly Language,Taimur Shahzad,G-06,100,6,AB-II
+"Wed04-Nov-2026",11:30-12:50,BSE-3A,A,54,EEE240,Fundamentals of Digital Logic Design,Dr. Ahmed Naseem Alvi,G-06,100,4,AB-II
+"Wed04-Nov-2026",11:30-12:50,BSE-3A,A,54,EEE240,Fundamentals of Digital Logic Design,Dr. Ahmed Naseem Alvi,G-08,100,50,AB-II
+"Wed04-Nov-2026",11:30-12:50,BSE-3B,B,46,EEE240,Fundamentals of Digital Logic Design,Afaq ur Rahman,105,46,21,AB-II
+"Wed04-Nov-2026",11:30-12:50,BSE-3B,B,46,EEE240,Fundamentals of Digital Logic Design,Afaq ur Rahman,110,50,25,AB-II
+"Wed04-Nov-2026",11:30-12:50,F,F,2,MGT210,Fundamentals of Marketing,Omer Vikas,111,50,2,AB-II
+"Wed04-Nov-2026",11:30-12:50,—,A,4,CSE327,Software Re-Engineering,Dr. Javed Iqbal,111,50,4,AB-II
+"Wed04-Nov-2026",13:00-14:20,BAI-1A,A,52,HUM222,Fundamentals of International Relations,Shazia Mehboob,G-05,100,21,AB-II
+"Wed04-Nov-2026",13:00-14:20,BAI-1A,A,52,HUM222,Fundamentals of International Relations,Shazia Mehboob,G-06,100,31,AB-II
+"Wed04-Nov-2026",13:00-14:20,BCS-1A,A,51,HUM222,Fundamentals of International Relations,Shazia Mehboob,G-06,100,19,AB-II
+"Wed04-Nov-2026",13:00-14:20,BCS-1A,A,51,HUM222,Fundamentals of International Relations,Shazia Mehboob,G-07,70,32,AB-II
+Date,Time,Class,Sec,ST,Course,Title,Instructor,Room,Cap.,Occ.,Block
+"Wed04-Nov-2026",13:00-14:20,BDS-1A,A,53,HUM222,Fundamentals of International Relations,Shazia Mehboob,G-07,70,3,AB-II
+"Wed04-Nov-2026",13:00-14:20,BDS-1A,A,53,HUM222,Fundamentals of International Relations,Shazia Mehboob,G-08,100,50,AB-II
+"Wed04-Nov-2026",14:30-15:50,BAI-3A,A,74,MTH104,Calculus and Analytic Geometry,Dr. Sajjad Khan,107,50,25,AB-II
+"Wed04-Nov-2026",14:30-15:50,BAI-3A,A,74,MTH104,Calculus and Analytic Geometry,Dr. Sajjad Khan,G-08,100,49,AB-II
+"Wed04-Nov-2026",14:30-15:50,BCS-3A,A,66,MTH104,Calculus and Analytic Geometry,Dr. Shagufta Yasmeen,109,46,21,AB-II
+"Wed04-Nov-2026",14:30-15:50,BCS-3A,A,66,MTH104,Calculus and Analytic Geometry,Dr. Shagufta Yasmeen,111,50,25,AB-II
+"Wed04-Nov-2026",14:30-15:50,BCS-3A,A,66,MTH104,Calculus and Analytic Geometry,Dr. Shagufta Yasmeen,G-05,100,20,AB-II
+"Wed04-Nov-2026",14:30-15:50,BCS-4B,B,47,CSC262,Artificial Intelligence,Dr. Rasool Bukhsh,G-06,100,47,AB-II
+"Wed04-Nov-2026",14:30-15:50,BCS-4B,B,1,CSC462,Artificial Intelligence,Dr. Rasool Bukhsh,G-06,100,1,AB-II
+"Wed04-Nov-2026",14:30-15:50,BCS-6AB,A,83,MTH231,Linear Algebra,Prof. Dr. Shams-ul-Islam,G-07,70,35,AB-II
+"Wed04-Nov-2026",14:30-15:50,BCS-6AB,A,83,MTH231,Linear Algebra,Prof. Dr. Shams-ul-Islam,G-08,100,48,AB-II
+"Wed04-Nov-2026",14:30-15:50,BCS-7A,A,58,CSC441,Compiler Construction,Salman Aslam,106,50,25,AB-II
+"Wed04-Nov-2026",14:30-15:50,BCS-7A,A,58,CSC441,Compiler Construction,Salman Aslam,110,50,25,AB-II
+"Wed04-Nov-2026",14:30-15:50,BCS-7A,A,58,CSC441,Compiler Construction,Salman Aslam,111,50,8,AB-II
+"Wed04-Nov-2026",14:30-15:50,BCS-7B,B,50,CSC441,Compiler Construction,Salman Aslam,111,50,17,AB-II
+"Wed04-Nov-2026",14:30-15:50,BCS-7B,B,50,CSC441,Compiler Construction,Salman Aslam,G-05,100,33,AB-II
+"Wed04-Nov-2026",14:30-15:50,BDS-2A,A,51,HUM121,Technical and Business Writing,Saira Ali,105,46,21,AB-II
+"Wed04-Nov-2026",14:30-15:50,BDS-2A,A,51,HUM121,Technical and Business Writing,Saira Ali,108,46,23,AB-II
+Date,Time,Class,Sec,ST,Course,Title,Instructor,Room,Cap.,Occ.,Block
+"Wed04-Nov-2026",14:30-15:50,BDS-2A,A,51,HUM121,Technical and Business Writing,Saira Ali,109,46,7,AB-II
+"Wed04-Nov-2026",14:30-15:50,BDS-5A,A,35,DSC300,Statistical Methods in Data Science,Dr. Basharat Mahmood,108,46,12,AB-II
+"Wed04-Nov-2026",14:30-15:50,BDS-5A,A,35,DSC300,Statistical Methods in Data Science,Dr. Basharat Mahmood,112,46,23,AB-II
+"Wed04-Nov-2026",14:30-15:50,BSE-1,A,1,CSC101,Introduction to ICT,Hilal Jan,106,50,1,AB-II
+"Wed04-Nov-2026",14:30-15:50,BSE-1A,A,59,CSC101,"Applications of Information and CommunicationTechnologies",Hilal Jan,106,50,23,AB-II
+"Wed04-Nov-2026",14:30-15:50,BSE-1A,A,59,CSC101,"Applications of Information and CommunicationTechnologies",Hilal Jan,G-05,100,36,AB-II
+"Wed04-Nov-2026",14:30-15:50,BSE-3A,A,61,MTH104,Calculus and Analytic Geometry,Dr. Shagufta Yasmeen,G-05,100,11,AB-II
+"Wed04-Nov-2026",14:30-15:50,BSE-3A,A,61,MTH104,Calculus and Analytic Geometry,Dr. Shagufta Yasmeen,G-06,100,50,AB-II
+"Wed04-Nov-2026",14:30-15:50,BSE-5B,B,55,MTH105,Multivariable Calculus,Syeda Faiza Raies,105,46,23,AB-II
+"Wed04-Nov-2026",14:30-15:50,BSE-5B,B,55,MTH105,Multivariable Calculus,Syeda Faiza Raies,G-07,70,32,AB-II
+"Wed04-Nov-2026",14:30-15:50,BSE-7A,A,39,HUM121,Technical and Business Writing,Saira Ali,109,46,16,AB-II
+"Wed04-Nov-2026",14:30-15:50,BSE-7A,A,39,HUM121,Technical and Business Writing,Saira Ali,112,46,23,AB-II
+"Thu05-Nov-2026",08:30-09:50,BAI-5A,A,56,AIC270,Programming for Artificial Intelligence,Dr. Rasool Bukhsh,105,46,23,AB-II
+"Thu05-Nov-2026",08:30-09:50,BAI-5A,A,56,AIC270,Programming for Artificial Intelligence,Dr. Rasool Bukhsh,G-06,100,33,AB-II
+"Thu05-Nov-2026",08:30-09:50,BCS-4A,A,65,CSC417,E-Commerce and Digital Marketing,Omer Vikas,111,50,24,AB-II
+"Thu05-Nov-2026",08:30-09:50,BCS-4A,A,65,CSC417,E-Commerce and Digital Marketing,Omer Vikas,G-05,100,41,AB-II
+"Thu05-Nov-2026",08:30-09:50,BCS-4B,B,58,CSC417,E-Commerce and Digital Marketing,Omer Vikas,G-05,100,8,AB-II
+"Thu05-Nov-2026",08:30-09:50,BCS-4B,B,1,CSC417,E-Commerce and Digital Marketing,Omer Vikas,G-05,100,1,AB-II
+Date,Time,Class,Sec,ST,Course,Title,Instructor,Room,Cap.,Occ.,Block
+"Thu05-Nov-2026",08:30-09:50,BCS-4B,B,58,CSC417,E-Commerce and Digital Marketing,Omer Vikas,G-08,100,50,AB-II
+"Thu05-Nov-2026",08:30-09:50,BCS-6AB,A,74,CSC275,Computer Networks,Sara Ali,G-06,100,24,AB-II
+"Thu05-Nov-2026",08:30-09:50,BCS-6AB,A,74,CSC275,Computer Networks,Sara Ali,G-08,100,50,AB-II
+"Thu05-Nov-2026",08:30-09:50,BCS-6AB,A,2,CSC340,Computer Networks,Sara Ali,G-06,100,2,AB-II
+"Thu05-Nov-2026",08:30-09:50,BCS-7A,A,58,CSC365,HCI and Computer Graphics,Gulmina Rextina,106,50,23,AB-II
+"Thu05-Nov-2026",08:30-09:50,BCS-7A,A,58,CSC365,HCI and Computer Graphics,Gulmina Rextina,G-05,100,35,AB-II
+"Thu05-Nov-2026",08:30-09:50,BCS-7B,B,56,CSC365,HCI and Computer Graphics,Gulmina Rextina,G-05,100,15,AB-II
+"Thu05-Nov-2026",08:30-09:50,BCS-7B,B,56,CSC365,HCI and Computer Graphics,Gulmina Rextina,G-06,100,41,AB-II
+"Thu05-Nov-2026",08:30-09:50,BCT-4A,A,45,EEE240,Fundamentals of Digital Logic Design,Dr. Irfan Latif,110,50,25,AB-II
+"Thu05-Nov-2026",08:30-09:50,BCT-4A,A,45,EEE240,Fundamentals of Digital Logic Design,Dr. Irfan Latif,111,50,20,AB-II
+"Thu05-Nov-2026",08:30-09:50,BCT-6A,A,44,CYC390,"Vulnerability Assessment and ReverseEngineering",Ms. Aliya Awais,106,50,21,AB-II
+"Thu05-Nov-2026",08:30-09:50,BCT-6A,A,1,CYC390,Vulnerability Assessment & Reverse Engineering,Ms. Aliya Awais,106,50,1,AB-II
+"Thu05-Nov-2026",08:30-09:50,BCT-6A,A,44,CYC390,"Vulnerability Assessment and ReverseEngineering",Ms. Aliya Awais,112,46,23,AB-II
+"Thu05-Nov-2026",08:30-09:50,BSE-7A,A,39,CSE325,Software Construction and Development,Mr. Tehseen Riaz Abbasi,110,50,25,AB-II
+"Thu05-Nov-2026",08:30-09:50,BSE-7A,A,39,CSE325,Software Construction and Development,Mr. Tehseen Riaz Abbasi,112,46,14,AB-II
+"Thu05-Nov-2026",08:30-09:50,BSE-7B,B,43,CSE325,Software Construction and Development,Mr. Tehseen Riaz Abbasi,112,46,8,AB-II
+"Thu05-Nov-2026",08:30-09:50,BSE-7B,B,43,CSE325,Software Construction and Development,Mr. Tehseen Riaz Abbasi,G-07,70,35,AB-II
+"Thu05-Nov-2026",08:30-09:50,BSE-8A,A,55,CSE356,Formal Methods,Saira Beg,105,46,20,AB-II
+Date,Time,Class,Sec,ST,Course,Title,Instructor,Room,Cap.,Occ.,Block
+"Thu05-Nov-2026",08:30-09:50,BSE-8A,A,55,CSE356,Formal Methods,Saira Beg,G-07,70,35,AB-II
+"Thu05-Nov-2026",11:30-12:50,BAI-3A,A,58,CSC291,Software Engineering,Dr. Javed Iqbal,106,50,25,AB-II
+"Thu05-Nov-2026",11:30-12:50,BAI-3A,A,58,CSC291,Software Engineering,Dr. Javed Iqbal,107,50,25,AB-II
+"Thu05-Nov-2026",11:30-12:50,BAI-3A,A,3,CSC291,Software Engineering Concepts,Dr. Javed Iqbal,108,46,3,AB-II
+"Thu05-Nov-2026",11:30-12:50,BAI-3A,A,58,CSC291,Software Engineering,Dr. Javed Iqbal,108,46,8,AB-II
+"Thu05-Nov-2026",11:30-12:50,BAI-8A,A,17,AIC378,Speech Processing,Dr. Amir Rashid,110,50,17,AB-II
+"Thu05-Nov-2026",11:30-12:50,BCS-3A,A,51,CSC291,Software Engineering,Ch. Anwar Shaukat,105,46,23,AB-II
+"Thu05-Nov-2026",11:30-12:50,BCS-3A,A,51,CSC291,Software Engineering,Ch. Anwar Shaukat,210,46,20,AB-II
+"Thu05-Nov-2026",11:30-12:50,BCS-3A,A,51,CSC291,Software Engineering,Ch. Anwar Shaukat,213,46,8,AB-II
+"Thu05-Nov-2026",11:30-12:50,BCS-3B,B,49,CSC291,Software Engineering,Ch. Anwar Shaukat,213,46,15,AB-II
+"Thu05-Nov-2026",11:30-12:50,BCS-3B,B,49,CSC291,Software Engineering,Ch. Anwar Shaukat,G-05,100,34,AB-II
+"Thu05-Nov-2026",11:30-12:50,BCT-3A,A,50,CSC291,Software Engineering,Ch. Anwar Shaukat,G-05,100,16,AB-II
+"Thu05-Nov-2026",11:30-12:50,BCT-3A,A,50,CSC291,Software Engineering,Ch. Anwar Shaukat,G-07,70,34,AB-II
+"Thu05-Nov-2026",11:30-12:50,BCT-3A,A,1,CSC291,Software Engineering Concepts,Ch. Anwar Shaukat,G-07,70,1,AB-II
+"Thu05-Nov-2026",11:30-12:50,BDS-5A,A,1,CSC291,Software Engineering Concepts,Ms. Farah Saeed,110,50,1,AB-II
+"Thu05-Nov-2026",11:30-12:50,BDS-5A,A,54,CSC291,Software Engineering,Ms. Farah Saeed,110,50,24,AB-II
+"Thu05-Nov-2026",11:30-12:50,BDS-5A,A,54,CSC291,Software Engineering,Ms. Farah Saeed,111,50,25,AB-II
+"Thu05-Nov-2026",11:30-12:50,BDS-5A,A,54,CSC291,Software Engineering,Ms. Farah Saeed,G-08,100,5,AB-II
+Date,Time,Class,Sec,ST,Course,Title,Instructor,Room,Cap.,Occ.,Block
+"Thu05-Nov-2026",11:30-12:50,BDS-6A,A,60,CSC291,Software Engineering,Dr. Javed Iqbal,108,46,12,AB-II
+"Thu05-Nov-2026",11:30-12:50,BDS-6A,A,60,CSC291,Software Engineering,Dr. Javed Iqbal,112,46,23,AB-II
+"Thu05-Nov-2026",11:30-12:50,BDS-6A,A,60,CSC291,Software Engineering,Dr. Javed Iqbal,212,50,25,AB-II
+"Thu05-Nov-2026",11:30-12:50,BDS-6A,A,1,CSC291,Software Engineering Concepts,Ms. Farah Saeed,G-08,100,1,AB-II
+"Thu05-Nov-2026",11:30-12:50,BSE-3A,A,58,CSC291,Software Engineering,Ms. Lailma Javed,109,46,23,AB-II
+"Thu05-Nov-2026",11:30-12:50,BSE-3A,A,58,CSC291,Software Engineering,Ms. Lailma Javed,G-06,100,35,AB-II
+"Thu05-Nov-2026",11:30-12:50,BSE-3B,B,53,CSC291,Software Engineering,Ms. Lailma Javed,G-06,100,15,AB-II
+"Thu05-Nov-2026",11:30-12:50,BSE-3B,B,53,CSC291,Software Engineering,Ms. Lailma Javed,G-08,100,38,AB-II
+"Thu05-Nov-2026",11:30-12:50,BSE-3B,B,6,CSC291,Software Engineering Concepts,Ms. Lailma Javed,G-08,100,6,AB-II
+"Thu05-Nov-2026",11:30-12:50,BSE-6A,A,61,CSC275,Computer Networks,Dr. Mariam Akbar,G-06,100,48,AB-II
+"Thu05-Nov-2026",11:30-12:50,BSE-6A,A,61,CSC275,Computer Networks,Dr. Mariam Akbar,G-08,100,13,AB-II
+"Thu05-Nov-2026",11:30-12:50,BSE-6A,A,2,CSC340,Computer Networks,Dr. Mariam Akbar,G-06,100,2,AB-II
+"Thu05-Nov-2026",11:30-12:50,F,F,9,MTH375,Numerical Computations,Dr. Manshoor Ahmed,G-07,70,9,AB-II
+"Thu05-Nov-2026",11:30-12:50,bse-6,A,1,CSC350,Topics in Computer Science I,Aamir Shabbir Pare,G-05,100,1,AB-II
+"Thu05-Nov-2026",13:00-14:20,BAI-1A,A,52,HUM104,Functional English,Rahat-ul-Ain Azim,106,50,25,AB-II
+"Thu05-Nov-2026",13:00-14:20,BAI-1A,A,52,HUM104,Functional English,Rahat-ul-Ain Azim,107,50,25,AB-II
+"Thu05-Nov-2026",13:00-14:20,BAI-1A,A,52,HUM104,Functional English,Rahat-ul-Ain Azim,109,46,2,AB-II
+"Thu05-Nov-2026",13:00-14:20,BAI-5A,A,1,CSC455,Computer Vision,Ms. Maheen Gul,106,50,1,AB-II
+Date,Time,Class,Sec,ST,Course,Title,Instructor,Room,Cap.,Occ.,Block
+"Thu05-Nov-2026",13:00-14:20,BCS-1A,A,53,HUM104,Functional English,Rahat-ul-Ain Azim,109,46,21,AB-II
+"Thu05-Nov-2026",13:00-14:20,BCS-1A,A,53,HUM104,Functional English,Rahat-ul-Ain Azim,110,50,25,AB-II
+"Thu05-Nov-2026",13:00-14:20,BCS-1A,A,53,HUM104,Functional English,Rahat-ul-Ain Azim,111,50,7,AB-II
+"Thu05-Nov-2026",13:00-14:20,BCS-1B,B,50,HUM104,Functional English,Rahat-ul-Ain Azim,111,50,18,AB-II
+"Thu05-Nov-2026",13:00-14:20,BCS-1B,B,50,HUM104,Functional English,Rahat-ul-Ain Azim,112,46,23,AB-II
+"Thu05-Nov-2026",13:00-14:20,BCS-1B,B,50,HUM104,Functional English,Rahat-ul-Ain Azim,G-05,100,9,AB-II
+"Thu05-Nov-2026",13:00-14:20,BCS-5A,A,1,CSC321,Microprocessor and Assembly Language,Taimur Shahzad,107,50,1,AB-II
+"Thu05-Nov-2026",13:00-14:20,BCS-5B,B,4,CSC354,Machine Learning,Gulmina Rextina,107,50,4,AB-II
+"Thu05-Nov-2026",13:00-14:20,BCT-1A,A,53,HUM104,Functional English,Rahat-ul-Ain Azim,G-05,100,41,AB-II
+"Thu05-Nov-2026",13:00-14:20,BCT-1A,A,53,HUM104,Functional English,Rahat-ul-Ain Azim,G-06,100,12,AB-II
+"Thu05-Nov-2026",13:00-14:20,BDS-1A,A,51,HUM104,Functional English,Rahat-ul-Ain Azim,G-06,100,25,AB-II
+"Thu05-Nov-2026",13:00-14:20,BDS-1A,A,51,HUM104,Functional English,Rahat-ul-Ain Azim,G-07,70,26,AB-II
+"Thu05-Nov-2026",13:00-14:20,BSE-1A,A,59,HUM104,Functional English,Rahat-ul-Ain Azim,G-07,70,9,AB-II
+"Thu05-Nov-2026",13:00-14:20,BSE-1A,A,59,HUM104,Functional English,Rahat-ul-Ain Azim,G-08,100,50,AB-II
+"Thu05-Nov-2026",14:30-15:50,BAI-7A,A,53,AIC456,Reinforcement Learning,Dr. Tehseen Zia,109,46,19,AB-II
+"Thu05-Nov-2026",14:30-15:50,BAI-7A,A,53,AIC456,Reinforcement Learning,Dr. Tehseen Zia,G-07,70,34,AB-II
+"Thu05-Nov-2026",14:30-15:50,BCS-1A,A,1,HUM221,International Relations,Shazia Mehboob,G-07,70,1,AB-II
+"Thu05-Nov-2026",14:30-15:50,BCS-1B,B,3,HUM221,International Relations,Atiq ur Rehman,108,46,3,AB-II
+Date,Time,Class,Sec,ST,Course,Title,Instructor,Room,Cap.,Occ.,Block
+"Thu05-Nov-2026",14:30-15:50,BCS-3A,A,54,CSC211,Data Structures,Dr. Inayat-ur-Rehman,G-05,100,50,AB-II
+"Thu05-Nov-2026",14:30-15:50,BCS-3A,A,54,CSC211,Data Structures,Dr. Inayat-ur-Rehman,G-06,100,4,AB-II
+"Thu05-Nov-2026",14:30-15:50,BCS-3B,B,46,CSC211,Data Structures,Dr. Inayat-ur-Rehman,G-06,100,46,AB-II
+"Thu05-Nov-2026",14:30-15:50,BCT-3A,A,65,CSC211,Data Structures,Atique Ahmad Zafar,106,50,25,AB-II
+"Thu05-Nov-2026",14:30-15:50,BCT-3A,A,65,CSC211,Data Structures,Atique Ahmad Zafar,109,46,23,AB-II
+"Thu05-Nov-2026",14:30-15:50,BCT-3A,A,65,CSC211,Data Structures,Atique Ahmad Zafar,110,50,15,AB-II
+"Thu05-Nov-2026",14:30-15:50,BCT-3A,A,65,CSC211,Data Structures,Atique Ahmad Zafar,111,50,2,AB-II
+"Thu05-Nov-2026",14:30-15:50,BCT-5A,A,64,CSC301,Design and Analysis of Algorithms,Hilal Jan,110,50,24,AB-II
+"Thu05-Nov-2026",14:30-15:50,BCT-5A,A,64,CSC301,Design and Analysis of Algorithms,Hilal Jan,G-05,100,40,AB-II
+"Thu05-Nov-2026",14:30-15:50,BCT-6A,A,42,CYC307,Information Assurance,Ms. Aliya Awais,105,46,23,AB-II
+"Thu05-Nov-2026",14:30-15:50,BCT-6A,A,42,CYC307,Information Assurance,Ms. Aliya Awais,111,50,19,AB-II
+"Thu05-Nov-2026",14:30-15:50,BDS-3A,A,59,CSC211,Data Structures,Atique Ahmad Zafar,111,50,23,AB-II
+"Thu05-Nov-2026",14:30-15:50,BDS-3A,A,59,CSC211,Data Structures,Atique Ahmad Zafar,G-07,70,35,AB-II
+"Thu05-Nov-2026",14:30-15:50,BDS-3A,A,59,CSC211,Data Structures,Atique Ahmad Zafar,G-08,100,1,AB-II
+"Thu05-Nov-2026",14:30-15:50,BDS-4A,A,47,AIC354,Machine Learning Fundamentals,Shafaq Rasheed,106,50,25,AB-II
+"Thu05-Nov-2026",14:30-15:50,BDS-4A,A,47,AIC354,Machine Learning Fundamentals,Shafaq Rasheed,107,50,22,AB-II
+"Thu05-Nov-2026",14:30-15:50,BSE-3A,A,59,CSC211,Data Structures,Zahid Anwar,105,46,22,AB-II
+"Thu05-Nov-2026",14:30-15:50,BSE-3A,A,59,CSC211,Data Structures,Zahid Anwar,107,50,25,AB-II
+Date,Time,Class,Sec,ST,Course,Title,Instructor,Room,Cap.,Occ.,Block
+"Thu05-Nov-2026",14:30-15:50,BSE-3A,A,59,CSC211,Data Structures,Zahid Anwar,108,46,12,AB-II
+"Thu05-Nov-2026",14:30-15:50,BSE-3A,A,2,CSC211,Data Structures and Algorithms,Zahid Anwar,108,46,2,AB-II
+"Thu05-Nov-2026",14:30-15:50,BSE-3B,B,45,CSC211,Data Structures,Atique Ahmad Zafar,G-08,100,45,AB-II
+"Thu05-Nov-2026",14:30-15:50,BSE-3B,B,4,CSC211,Data Structures and Algorithms,Atique Ahmad Zafar,G-08,100,4,AB-II
+"Thu05-Nov-2026",14:30-15:50,BSE-5A,A,50,CSC301,Design and Analysis of Algorithms,Hilal Jan,G-05,100,10,AB-II
+"Thu05-Nov-2026",14:30-15:50,BSE-5A,A,50,CSC301,Design and Analysis of Algorithms,Hilal Jan,G-06,100,40,AB-II
+"Thu05-Nov-2026",14:30-15:50,BSE-5B,B,60,CSC301,Design and Analysis of Algorithms,Hilal Jan,G-06,100,10,AB-II
+"Thu05-Nov-2026",14:30-15:50,BSE-5B,B,60,CSC301,Design and Analysis of Algorithms,Hilal Jan,G-08,100,50,AB-II
+"Thu05-Nov-2026",16:00-17:20,BAI-1A,A,66,CSC103,Programming Fundamentals,"Dr. Muhammad Manzoor IlahiTamimy",G-07,70,16,AB-II
+"Thu05-Nov-2026",16:00-17:20,BAI-1A,A,66,CSC103,Programming Fundamentals,"Dr. Muhammad Manzoor IlahiTamimy",G-08,100,50,AB-II
+"Thu05-Nov-2026",16:00-17:20,BCS-1B,B,52,CSC103,Programming Fundamentals,Mr. Muzaffar Iqbal,G-05,100,41,AB-II
+"Thu05-Nov-2026",16:00-17:20,BCS-1B,B,52,CSC103,Programming Fundamentals,Mr. Muzaffar Iqbal,G-06,100,11,AB-II
+"Thu05-Nov-2026",16:00-17:20,BSE-1A,A,58,CSC103,Programming Fundamentals,Mr. Muzaffar Iqbal,G-06,100,39,AB-II
+"Thu05-Nov-2026",16:00-17:20,BSE-1A,A,58,CSC103,Programming Fundamentals,Mr. Muzaffar Iqbal,G-07,70,19,AB-II
+Fri 06-Nov-2026,08:30-09:50,BAI-1A,A,27,MTH091,Pre-Calculus I,Dr. Iffat Jabeen,105,46,23,AB-II
+Fri 06-Nov-2026,08:30-09:50,BAI-1A,A,27,MTH091,Pre-Calculus I,Dr. Iffat Jabeen,112,46,4,AB-II
+Fri 06-Nov-2026,08:30-09:50,BAI-6A,A,50,AIC372,Knowledge Representation and Reasoning,Dr. Malik Ahmad Kamran,207,50,24,AB-II
+Fri 06-Nov-2026,08:30-09:50,BAI-6A,A,50,AIC372,Knowledge Representation and Reasoning,Dr. Malik Ahmad Kamran,209,46,23,AB-II
+Fri 06-Nov-2026,08:30-09:50,BAI-6A,A,50,AIC372,Knowledge Representation and Reasoning,Dr. Malik Ahmad Kamran,G-08,100,3,AB-II
+Fri 06-Nov-2026,08:30-09:50,BAI-7A,A,41,AIC365,Natural Language Processing,Tanveer Ahmed,208,50,18,AB-II
+Date,Time,Class,Sec,ST,Course,Title,Instructor,Room,Cap.,Occ.,Block
+Fri 06-Nov-2026,08:30-09:50,BAI-7A,A,41,AIC365,Natural Language Processing,Tanveer Ahmed,210,46,23,AB-II
+Fri 06-Nov-2026,08:30-09:50,BAI-8A,A,15,ECO484,Project Planning and Monitoring,Muhammad Abeer,106,50,15,AB-II
+Fri 06-Nov-2026,08:30-09:50,BCS-1A,A,34,MTH091,Pre-Calculus I,Dr. Fawad Ali,111,50,10,AB-II
+Fri 06-Nov-2026,08:30-09:50,BCS-1A,A,34,MTH091,Pre-Calculus I,Dr. Fawad Ali,212,50,24,AB-II
+Fri 06-Nov-2026,08:30-09:50,BCS-1B,B,24,MTH091,Pre-Calculus I,Dr. Fawad Ali,212,50,1,AB-II
+Fri 06-Nov-2026,08:30-09:50,BCS-1B,B,24,MTH091,Pre-Calculus I,Dr. Fawad Ali,213,46,23,AB-II
+Fri 06-Nov-2026,08:30-09:50,BCS-4A,A,39,CSC316,Advance Database Systems,Dr. Basit Raza,106,50,25,AB-II
+Fri 06-Nov-2026,08:30-09:50,BCS-4A,A,39,CSC316,Advance Database Systems,Dr. Basit Raza,112,46,10,AB-II
+Fri 06-Nov-2026,08:30-09:50,BCS-4A,A,39,CSC316,Advance Database Systems,Dr. Basit Raza,G-06,100,4,AB-II
+Fri 06-Nov-2026,08:30-09:50,BCS-4B,B,46,CSC316,Advance Database Systems,Dr. Basit Raza,G-06,100,46,AB-II
+Fri 06-Nov-2026,08:30-09:50,BCS-5A,A,54,AIC354,Machine Learning Fundamentals,Umar Nauman,105,46,23,AB-II
+Fri 06-Nov-2026,08:30-09:50,BCS-5A,A,54,AIC354,Machine Learning Fundamentals,Umar Nauman,107,50,25,AB-II
+Fri 06-Nov-2026,08:30-09:50,BCS-5A,A,54,AIC354,Machine Learning Fundamentals,Umar Nauman,G-08,100,6,AB-II
+Fri 06-Nov-2026,08:30-09:50,BCS-7A,A,57,CSC334,Parallel and Distributed Computing,Qasim Malik,108,46,23,AB-II
+Fri 06-Nov-2026,08:30-09:50,BCS-7A,A,57,CSC334,Parallel and Distributed Computing,Qasim Malik,207,50,25,AB-II
+Fri 06-Nov-2026,08:30-09:50,BCS-7A,A,57,CSC334,Parallel and Distributed Computing,Qasim Malik,208,50,9,AB-II
+Fri 06-Nov-2026,08:30-09:50,BCS-7B,B,46,CSC334,Parallel and Distributed Computing,Qasim Malik,208,50,9,AB-II
+Fri 06-Nov-2026,08:30-09:50,BCS-7B,B,46,CSC334,Parallel and Distributed Computing,Qasim Malik,210,46,23,AB-II
+Fri 06-Nov-2026,08:30-09:50,BCS-7B,B,46,CSC334,Parallel and Distributed Computing,Qasim Malik,213,46,14,AB-II
+Fri 06-Nov-2026,08:30-09:50,BCS-8A,A,82,ECO484,Project Planning and Monitoring,Muhammad Abeer,106,50,10,AB-II
+Fri 06-Nov-2026,08:30-09:50,BCS-8A,A,82,ECO484,Project Planning and Monitoring,Muhammad Abeer,107,50,25,AB-II
+Fri 06-Nov-2026,08:30-09:50,BCS-8A,A,82,ECO484,Project Planning and Monitoring,Muhammad Abeer,108,46,23,AB-II
+Fri 06-Nov-2026,08:30-09:50,BCS-8A,A,82,ECO484,Project Planning and Monitoring,Muhammad Abeer,109,46,23,AB-II
+Fri 06-Nov-2026,08:30-09:50,BCS-8A,A,82,ECO484,Project Planning and Monitoring,Muhammad Abeer,110,50,1,AB-II
+Fri 06-Nov-2026,08:30-09:50,BCT-1A,A,21,MTH091,Pre-Calculus I,Dr. Iffat Jabeen,112,46,12,AB-II
+Date,Time,Class,Sec,ST,Course,Title,Instructor,Room,Cap.,Occ.,Block
+Fri 06-Nov-2026,08:30-09:50,BCT-1A,A,21,MTH091,Pre-Calculus I,Dr. Iffat Jabeen,G-06,100,9,AB-II
+Fri 06-Nov-2026,08:30-09:50,BCT-4A,A,54,CSC210,Professional Practices,Omer Vikas,212,50,22,AB-II
+Fri 06-Nov-2026,08:30-09:50,BCT-4A,A,54,CSC210,Professional Practices,Omer Vikas,G-05,100,32,AB-II
+Fri 06-Nov-2026,08:30-09:50,BCT-4A,A,3,CSC410,Professional Practices,Omer Vikas,212,50,3,AB-II
+Fri 06-Nov-2026,08:30-09:50,BCT-5A,A,50,CYC350,Topics in Cyber Security I,Mr. Muhammad Rashid Mukhtar,110,50,25,AB-II
+Fri 06-Nov-2026,08:30-09:50,BCT-5A,A,50,CYC350,Topics in Cyber Security I,Mr. Muhammad Rashid Mukhtar,111,50,25,AB-II
+Fri 06-Nov-2026,08:30-09:50,BCT-8A,A,39,ECO484,Project Planning and Monitoring,Muhammad Abeer,110,50,24,AB-II
+Fri 06-Nov-2026,08:30-09:50,BCT-8A,A,39,ECO484,Project Planning and Monitoring,Muhammad Abeer,111,50,15,AB-II
+Fri 06-Nov-2026,08:30-09:50,BDS-1A,A,18,MTH091,Pre-Calculus I,Dr. Iffat Jabeen,G-06,100,18,AB-II
+Fri 06-Nov-2026,08:30-09:50,BDS-2A,A,49,CSC241,Object Oriented Programming,Rizwan Rashid,109,46,20,AB-II
+Fri 06-Nov-2026,08:30-09:50,BDS-2A,A,49,CSC241,Object Oriented Programming,Rizwan Rashid,112,46,20,AB-II
+Fri 06-Nov-2026,08:30-09:50,BDS-2A,A,49,CSC241,Object Oriented Programming,Rizwan Rashid,213,46,9,AB-II
+Fri 06-Nov-2026,08:30-09:50,BDS-4A,A,49,CSC210,Professional Practices,Omer Vikas,G-05,100,18,AB-II
+Fri 06-Nov-2026,08:30-09:50,BDS-4A,A,49,CSC210,Professional Practices,Omer Vikas,G-08,100,31,AB-II
+Fri 06-Nov-2026,08:30-09:50,BDS-5A,A,36,CSC232,Information Security,Ms. Ayesha Hussain,208,50,13,AB-II
+Fri 06-Nov-2026,08:30-09:50,BDS-5A,A,36,CSC232,Information Security,Ms. Ayesha Hussain,209,46,23,AB-II
+Fri 06-Nov-2026,08:30-09:50,BDS-5A,A,1,CSC432,Information Security,Ms. Ayesha Hussain,208,50,1,AB-II
+Fri 06-Nov-2026,08:30-09:50,BDS-8A,A,51,ECO484,Project Planning and Monitoring,Muhammad Abeer,G-05,100,50,AB-II
+Fri 06-Nov-2026,08:30-09:50,BDS-8A,A,51,ECO484,Project Planning and Monitoring,Muhammad Abeer,G-08,100,1,AB-II
+Fri 06-Nov-2026,08:30-09:50,BSE-1A,A,33,MTH091,Pre-Calculus I,Dr. Iffat Jabeen,G-06,100,23,AB-II
+Fri 06-Nov-2026,08:30-09:50,BSE-1A,A,33,MTH091,Pre-Calculus I,Dr. Iffat Jabeen,G-08,100,10,AB-II
+Fri 06-Nov-2026,08:30-09:50,BSE-8A,A,49,ECO484,Project Planning and Monitoring,Muhammad Abeer,G-08,100,49,AB-II
+Fri 06-Nov-2026,11:30-12:50,BAI-3A,A,59,CSC270,Database Systems,Mr. Muhammad Haris,G-05,100,31,AB-II
+Fri 06-Nov-2026,11:30-12:50,BAI-3A,A,59,CSC270,Database Systems,Mr. Muhammad Haris,G-07,70,28,AB-II
+Fri 06-Nov-2026,11:30-12:50,BCS-1A,A,2,CSC101,Introduction to ICT,Ms. Ayesha Hussain,107,50,1,AB-II
+Date,Time,Class,Sec,ST,Course,Title,Instructor,Room,Cap.,Occ.,Block
+Fri 06-Nov-2026,11:30-12:50,BCS-1A,A,54,CSC101,"Applications of Information and CommunicationTechnologies",Ms. Ayesha Hussain,107,50,10,AB-II
+Fri 06-Nov-2026,11:30-12:50,BCS-1A,A,54,CSC101,"Applications of Information and CommunicationTechnologies",Ms. Ayesha Hussain,108,46,23,AB-II
+Fri 06-Nov-2026,11:30-12:50,BCS-1A,A,54,CSC101,"Applications of Information and CommunicationTechnologies",Ms. Ayesha Hussain,112,46,21,AB-II
+Fri 06-Nov-2026,11:30-12:50,BCS-1A,A,2,CSC101,Introduction to ICT,Ms. Ayesha Hussain,112,46,1,AB-II
+Fri 06-Nov-2026,11:30-12:50,BCS-1B,B,51,CSC101,"Applications of Information and CommunicationTechnologies",Ms. Ayesha Hussain,112,46,1,AB-II
+Fri 06-Nov-2026,11:30-12:50,BCS-1B,B,51,CSC101,"Applications of Information and CommunicationTechnologies",Ms. Ayesha Hussain,G-08,100,50,AB-II
+Fri 06-Nov-2026,11:30-12:50,BCS-2A,A,36,HUM121,Technical and Business Writing,Maria Farooq,109,46,23,AB-II
+Fri 06-Nov-2026,11:30-12:50,BCS-2A,A,36,HUM121,Technical and Business Writing,Maria Farooq,111,50,13,AB-II
+Fri 06-Nov-2026,11:30-12:50,BCS-2B,B,48,HUM121,Technical and Business Writing,Maria Farooq,111,50,1,AB-II
+Fri 06-Nov-2026,11:30-12:50,BCS-2B,B,48,HUM121,Technical and Business Writing,Maria Farooq,112,46,23,AB-II
+Fri 06-Nov-2026,11:30-12:50,BCS-2B,B,48,HUM121,Technical and Business Writing,Maria Farooq,212,50,24,AB-II
+Fri 06-Nov-2026,11:30-12:50,BCS-3B,B,67,MTH104,Calculus and Analytic Geometry,Dr. Zahid Ahmad,111,50,17,AB-II
+Fri 06-Nov-2026,11:30-12:50,BCS-3B,B,67,MTH104,Calculus and Analytic Geometry,Dr. Zahid Ahmad,G-06,100,50,AB-II
+Fri 06-Nov-2026,11:30-12:50,BCS-5A,A,61,CSC301,Design and Analysis of Algorithms,Nazish Bashir,105,46,23,AB-II
+Fri 06-Nov-2026,11:30-12:50,BCS-5A,A,61,CSC301,Design and Analysis of Algorithms,Nazish Bashir,107,50,15,AB-II
+Fri 06-Nov-2026,11:30-12:50,BCS-5A,A,61,CSC301,Design and Analysis of Algorithms,Nazish Bashir,109,46,23,AB-II
+Fri 06-Nov-2026,11:30-12:50,BCS-8A,A,96,CSC334,Parallel and Distributed Computing,Anum Zehra,105,46,23,AB-II
+Fri 06-Nov-2026,11:30-12:50,BCS-8A,A,96,CSC334,Parallel and Distributed Computing,Anum Zehra,106,50,25,AB-II
+Fri 06-Nov-2026,11:30-12:50,BCS-8A,A,96,CSC334,Parallel and Distributed Computing,Anum Zehra,212,50,25,AB-II
+Fri 06-Nov-2026,11:30-12:50,BCS-8A,A,96,CSC334,Parallel and Distributed Computing,Anum Zehra,G-05,100,23,AB-II
+Fri 06-Nov-2026,11:30-12:50,BCT-2A,A,60,HUM121,Technical and Business Writing,Mehak,110,50,25,AB-II
+Fri 06-Nov-2026,11:30-12:50,BCT-2A,A,60,HUM121,Technical and Business Writing,Mehak,G-07,70,35,AB-II
+Fri 06-Nov-2026,11:30-12:50,BCT-3A,A,54,CSC270,Database Systems,sadia maryam,106,50,25,AB-II
+Date,Time,Class,Sec,ST,Course,Title,Instructor,Room,Cap.,Occ.,Block
+Fri 06-Nov-2026,11:30-12:50,BCT-3A,A,54,CSC270,Database Systems,sadia maryam,107,50,24,AB-II
+Fri 06-Nov-2026,11:30-12:50,BCT-3A,A,54,CSC270,Database Systems,sadia maryam,108,46,5,AB-II
+Fri 06-Nov-2026,11:30-12:50,BDS-6A,A,57,MTH231,Linear Algebra,Dr. Nadia Wajid,111,50,19,AB-II
+Fri 06-Nov-2026,11:30-12:50,BDS-6A,A,57,MTH231,Linear Algebra,Dr. Nadia Wajid,G-05,100,38,AB-II
+Fri 06-Nov-2026,11:30-12:50,BSE-3A,A,57,CSC270,Database Systems,Mr. Muhammad Haris,G-07,70,7,AB-II
+Fri 06-Nov-2026,11:30-12:50,BSE-3A,A,57,CSC270,Database Systems,Mr. Muhammad Haris,G-08,100,50,AB-II
+Fri 06-Nov-2026,11:30-12:50,BSE-3B,B,50,CSC270,Database Systems,sadia maryam,108,46,18,AB-II
+Fri 06-Nov-2026,11:30-12:50,BSE-3B,B,50,CSC270,Database Systems,sadia maryam,110,50,25,AB-II
+Fri 06-Nov-2026,11:30-12:50,BSE-3B,B,50,CSC270,Database Systems,sadia maryam,213,46,7,AB-II
+Fri 06-Nov-2026,11:30-12:50,BSE-6A,A,58,MTH231,Linear Algebra,Dr. Nadia Wajid,G-05,100,8,AB-II
+Fri 06-Nov-2026,11:30-12:50,BSE-6A,A,58,MTH231,Linear Algebra,Dr. Nadia Wajid,G-06,100,50,AB-II
+Fri 06-Nov-2026,14:30-15:50,BAI-3A,A,4,CSC211,Data Structures and Algorithms,Dr. Samera Batool,106,50,1,AB-II
+Fri 06-Nov-2026,14:30-15:50,BAI-3A,A,68,CSC211,Data Structures,Dr. Samera Batool,106,50,21,AB-II
+Fri 06-Nov-2026,14:30-15:50,BAI-3A,A,68,CSC211,Data Structures,Dr. Samera Batool,110,50,25,AB-II
+Fri 06-Nov-2026,14:30-15:50,BAI-3A,A,68,CSC211,Data Structures,Dr. Samera Batool,111,50,22,AB-II
+Fri 06-Nov-2026,14:30-15:50,BAI-3A,A,4,CSC211,Data Structures and Algorithms,Dr. Samera Batool,111,50,3,AB-II
+Fri 06-Nov-2026,14:30-15:50,BAI-5A,A,61,MTH105,Multivariable Calculus,Dr. Muhammad Usman Ali,G-05,100,29,AB-II
+Fri 06-Nov-2026,14:30-15:50,BAI-5A,A,61,MTH105,Multivariable Calculus,Dr. Muhammad Usman Ali,G-07,70,32,AB-II
+Fri 06-Nov-2026,14:30-15:50,BAI-6A,A,43,MTH231,Linear Algebra,Dr. Iffat Jabeen,107,50,25,AB-II
+Fri 06-Nov-2026,14:30-15:50,BAI-6A,A,43,MTH231,Linear Algebra,Dr. Iffat Jabeen,111,50,18,AB-II
+Fri 06-Nov-2026,14:30-15:50,BCS-5B,B,46,AIC354,Machine Learning Fundamentals,Gulmina Rextina,105,46,23,AB-II
+Fri 06-Nov-2026,14:30-15:50,BCS-5B,B,46,AIC354,Machine Learning Fundamentals,Gulmina Rextina,108,46,23,AB-II
+Fri 06-Nov-2026,14:30-15:50,BCT-6A,A,41,CYC367,Security Analytics and Machine Learning,Shafaq Rasheed,107,50,25,AB-II
+Fri 06-Nov-2026,14:30-15:50,BCT-6A,A,41,CYC367,Security Analytics and Machine Learning,Shafaq Rasheed,110,50,16,AB-II
+Fri 06-Nov-2026,14:30-15:50,BCT-7A,A,43,CSC418,DevOps for Cloud Computing,Dr. Muhammad Imran,108,46,23,AB-II
+Date,Time,Class,Sec,ST,Course,Title,Instructor,Room,Cap.,Occ.,Block
+Fri 06-Nov-2026,14:30-15:50,BCT-7A,A,43,CSC418,DevOps for Cloud Computing,Dr. Muhammad Imran,G-07,70,20,AB-II
+Fri 06-Nov-2026,14:30-15:50,BDS-2A,A,58,CSC102,Discrete Structures,Saira Beg,106,50,25,AB-II
+Fri 06-Nov-2026,14:30-15:50,BDS-2A,A,58,CSC102,Discrete Structures,Saira Beg,G-05,100,33,AB-II
+Fri 06-Nov-2026,14:30-15:50,BDS-5A,A,56,CSC336,Web Technologies,Mr. Haseeb ur Rehman,105,46,23,AB-II
+Fri 06-Nov-2026,14:30-15:50,BDS-5A,A,56,CSC336,Web Technologies,Mr. Haseeb ur Rehman,G-05,100,23,AB-II
+Fri 06-Nov-2026,14:30-15:50,BDS-5A,A,56,CSC336,Web Technologies,Mr. Haseeb ur Rehman,G-08,100,10,AB-II
+Fri 06-Nov-2026,14:30-15:50,BDS-7,A,1,CSC418,DevOps for Cloud Computing,Qasim Malik,G-07,70,1,AB-II
+Fri 06-Nov-2026,14:30-15:50,BDS-7A,A,64,CSC418,DevOps for Cloud Computing,Qasim Malik,G-07,70,14,AB-II
+Fri 06-Nov-2026,14:30-15:50,BDS-7A,A,64,CSC418,DevOps for Cloud Computing,Qasim Malik,G-08,100,50,AB-II
+Fri 06-Nov-2026,14:30-15:50,BSE-2A,A,64,CSC102,Discrete Structures,Saira Beg,G-05,100,14,AB-II
+Fri 06-Nov-2026,14:30-15:50,BSE-2A,A,64,CSC102,Discrete Structures,Saira Beg,G-06,100,50,AB-II
+Fri 06-Nov-2026,14:30-15:50,BSE-4A,A,40,CSC262,Artificial Intelligence,Mr. Waqas Ali,G-06,100,40,AB-II
+Fri 06-Nov-2026,14:30-15:50,BSE-4A,A,1,CSC462,Artificial Intelligence,Mr. Waqas Ali,G-06,100,1,AB-II
+Fri 06-Nov-2026,14:30-15:50,BSE-4A,A,1,CSC462,Artificial Intelligence,Mr. Waqas Ali,G-06,100,1,AB-II
+Fri 06-Nov-2026,14:30-15:50,BSE-5B,B,40,CSC336,Web Technologies,Mr. Haseeb ur Rehman,G-08,100,40,AB-II
+Fri 06-Nov-2026,14:30-15:50,F,F,1,MGT250,Introduction to Entrepreneurship,Omer Azam,106,50,1,AB-II
+"Sat07-Nov-2026",08:30-09:50,BAI-2A,A,57,CSC241,Object Oriented Programming,Sajida Kalsoom,106,50,25,AB-II
+"Sat07-Nov-2026",08:30-09:50,BAI-2A,A,57,CSC241,Object Oriented Programming,Sajida Kalsoom,107,50,25,AB-II
+"Sat07-Nov-2026",08:30-09:50,BAI-2A,A,57,CSC241,Object Oriented Programming,Sajida Kalsoom,G-05,100,7,AB-II
+"Sat07-Nov-2026",08:30-09:50,BAI-6A,A,53,CSC337,Advanced Web Technologies,Aamir Shabbir Pare,106,50,25,AB-II
+"Sat07-Nov-2026",08:30-09:50,BAI-6A,A,53,CSC337,Advanced Web Technologies,Aamir Shabbir Pare,107,50,25,AB-II
+"Sat07-Nov-2026",08:30-09:50,BAI-6A,A,53,CSC337,Advanced Web Technologies,Aamir Shabbir Pare,109,46,3,AB-II
+Date,Time,Class,Sec,ST,Course,Title,Instructor,Room,Cap.,Occ.,Block
+"Sat07-Nov-2026",08:30-09:50,BAI-7A,A,28,CSC337,Advanced Web Technologies,Aamir Shabbir Pare,109,46,20,AB-II
+"Sat07-Nov-2026",08:30-09:50,BAI-7A,A,28,CSC337,Advanced Web Technologies,Aamir Shabbir Pare,110,50,8,AB-II
+"Sat07-Nov-2026",08:30-09:50,BCS-1A,A,51,CSC103,Programming Fundamentals,Rizwan Rashid,110,50,25,AB-II
+"Sat07-Nov-2026",08:30-09:50,BCS-1A,A,51,CSC103,Programming Fundamentals,Rizwan Rashid,G-05,100,26,AB-II
+"Sat07-Nov-2026",08:30-09:50,BCS-2A,A,57,CSC241,Object Oriented Programming,Sajida Kalsoom,G-05,100,22,AB-II
+"Sat07-Nov-2026",08:30-09:50,BCS-2A,A,57,CSC241,Object Oriented Programming,Sajida Kalsoom,G-07,70,35,AB-II
+"Sat07-Nov-2026",08:30-09:50,BCS-6AB,A,75,CSC337,Advanced Web Technologies,Mr. Muhammad Rashid Mukhtar,105,46,19,AB-II
+"Sat07-Nov-2026",08:30-09:50,BCS-6AB,A,75,CSC337,Advanced Web Technologies,Mr. Muhammad Rashid Mukhtar,108,46,23,AB-II
+"Sat07-Nov-2026",08:30-09:50,BCS-6AB,A,75,CSC337,Advanced Web Technologies,Mr. Muhammad Rashid Mukhtar,G-05,100,33,AB-II
+"Sat07-Nov-2026",08:30-09:50,BCS-7A,A,61,CSC337,Advanced Web Technologies,Mr. Muhammad Rashid Mukhtar,G-05,100,11,AB-II
+"Sat07-Nov-2026",08:30-09:50,BCS-7A,A,61,CSC337,Advanced Web Technologies,Mr. Muhammad Rashid Mukhtar,G-06,100,50,AB-II
+"Sat07-Nov-2026",08:30-09:50,BCS-7B,B,42,CSC337,Advanced Web Technologies,Aamir Shabbir Pare,110,50,17,AB-II
+"Sat07-Nov-2026",08:30-09:50,BCS-7B,B,42,CSC337,Advanced Web Technologies,Aamir Shabbir Pare,111,50,25,AB-II
+"Sat07-Nov-2026",08:30-09:50,BCT-1A,A,56,CSC103,Programming Fundamentals,Asma Khalid Butt,105,46,6,AB-II
+"Sat07-Nov-2026",08:30-09:50,BCT-1A,A,56,CSC103,Programming Fundamentals,Asma Khalid Butt,G-06,100,50,AB-II
+"Sat07-Nov-2026",08:30-09:50,BCT-5A,A,55,CYC365,Network Security,Dr. Farhana Jabeen,109,46,23,AB-II
+"Sat07-Nov-2026",08:30-09:50,BCT-5A,A,55,CYC365,Network Security,Dr. Farhana Jabeen,G-07,70,32,AB-II
+"Sat07-Nov-2026",08:30-09:50,BDS-1A,A,51,CSC103,Programming Fundamentals,Rizwan Rashid,G-05,100,1,AB-II
+Date,Time,Class,Sec,ST,Course,Title,Instructor,Room,Cap.,Occ.,Block
+"Sat07-Nov-2026",08:30-09:50,BDS-1A,A,51,CSC103,Programming Fundamentals,Rizwan Rashid,G-08,100,50,AB-II
+"Sat07-Nov-2026",08:30-09:50,BDS-6A,A,1,DSC354,Data Warehousing & Business Intelligence,Nusrat Shaheen,108,46,1,AB-II
+"Sat07-Nov-2026",08:30-09:50,BDS-6A,A,42,DSC354,Data Warehousing and Business Intelligence,Nusrat Shaheen,108,46,22,AB-II
+"Sat07-Nov-2026",08:30-09:50,BDS-6A,A,42,DSC354,Data Warehousing and Business Intelligence,Nusrat Shaheen,112,46,20,AB-II
+"Sat07-Nov-2026",08:30-09:50,BSE-6A,A,73,CSC337,Advanced Web Technologies,Aamir Shabbir Pare,112,46,23,AB-II
+"Sat07-Nov-2026",08:30-09:50,BSE-6A,A,73,CSC337,Advanced Web Technologies,Aamir Shabbir Pare,G-08,100,50,AB-II
+"Sat07-Nov-2026",10:00-11:20,BCS-5A,A,53,CSC336,Web Technologies,Mr. Saif Ullah Ijaz,G-05,100,50,AB-II
+"Sat07-Nov-2026",10:00-11:20,BCS-5A,A,53,CSC336,Web Technologies,Mr. Saif Ullah Ijaz,G-06,100,3,AB-II
+"Sat07-Nov-2026",10:00-11:20,BCS-5B,B,46,CSC336,Web Technologies,Mr. Saif Ullah Ijaz,G-06,100,39,AB-II
+"Sat07-Nov-2026",10:00-11:20,BCS-5B,B,46,CSC336,Web Technologies,Mr. Saif Ullah Ijaz,G-08,100,7,AB-II
+"Sat07-Nov-2026",10:00-11:20,BCT-4A,A,50,CYC205,Introduction to Cyber Security,Dr. Tehsin Kanwal,G-06,100,50,AB-II
+"Sat07-Nov-2026",10:00-11:20,BDS-4A,A,46,DSC306,Data Mining,Dr. Mariam Akbar,G-05,100,46,AB-II
+"Sat07-Nov-2026",10:00-11:20,BSE-5A,A,43,CSC336,Web Technologies,Mr. Saif Ullah Ijaz,G-08,100,43,AB-II
+"Sat07-Nov-2026",10:00-11:20,—,A,2,CSE494,Software Project Management,Ms. Lailma Javed,G-08,100,2,AB-II
+"Sat07-Nov-2026",11:30-12:50,BAI-1,A,3,CSC101,"Applications of Information and CommunicationTechnologies",Umar Iqbal,111,50,1,AB-II
+"Sat07-Nov-2026",11:30-12:50,BAI-1,A,3,CSC101,Introduction to ICT,Umar Iqbal,111,50,2,AB-II
+"Sat07-Nov-2026",11:30-12:50,BAI-1A,A,53,CSC101,"Applications of Information and CommunicationTechnologies",Umar Iqbal,111,50,22,AB-II
+"Sat07-Nov-2026",11:30-12:50,BAI-1A,A,53,CSC101,"Applications of Information and CommunicationTechnologies",Umar Iqbal,G-07,70,31,AB-II
+Date,Time,Class,Sec,ST,Course,Title,Instructor,Room,Cap.,Occ.,Block
+"Sat07-Nov-2026",11:30-12:50,BAI-1A,A,1,CSC101,Introduction to ICT,Umar Iqbal,G-07,70,1,AB-II
+"Sat07-Nov-2026",11:30-12:50,BAI-4A,A,52,CSC210,Professional Practices,Umar Sheraz,106,50,24,AB-II
+"Sat07-Nov-2026",11:30-12:50,BAI-4A,A,52,CSC210,Professional Practices,Umar Sheraz,111,50,25,AB-II
+"Sat07-Nov-2026",11:30-12:50,BAI-4A,A,52,CSC210,Professional Practices,Umar Sheraz,G-05,100,3,AB-II
+"Sat07-Nov-2026",11:30-12:50,BAI-6A,A,4,AIC380,Artificial Neural Networks,Dr. Zobia Rehman,107,50,4,AB-II
+"Sat07-Nov-2026",11:30-12:50,BAI-6A,A,45,AIC380,Artificial Neural Networks and Deep Learning,Dr. Zobia Rehman,107,50,21,AB-II
+"Sat07-Nov-2026",11:30-12:50,BAI-6A,A,45,AIC380,Artificial Neural Networks and Deep Learning,Dr. Zobia Rehman,108,46,23,AB-II
+"Sat07-Nov-2026",11:30-12:50,BAI-6A,A,45,AIC380,Artificial Neural Networks and Deep Learning,Dr. Zobia Rehman,G-06,100,1,AB-II
+"Sat07-Nov-2026",11:30-12:50,BAI-7A,A,47,AIC380,Artificial Neural Networks and Deep Learning,Dr. Zobia Rehman,G-06,100,47,AB-II
+"Sat07-Nov-2026",11:30-12:50,BCS-2B,B,60,CSC241,Object Oriented Programming,Mr. Yasir Munir,105,46,23,AB-II
+"Sat07-Nov-2026",11:30-12:50,BCS-2B,B,60,CSC241,Object Oriented Programming,Mr. Yasir Munir,107,50,23,AB-II
+"Sat07-Nov-2026",11:30-12:50,BCS-2B,B,60,CSC241,Object Oriented Programming,Mr. Yasir Munir,108,46,14,AB-II
+"Sat07-Nov-2026",11:30-12:50,BCS-4A,A,45,CSC210,Professional Practices,Umar Sheraz,G-05,100,45,AB-II
+"Sat07-Nov-2026",11:30-12:50,BCS-4B,B,47,CSC210,Professional Practices,Umar Sheraz,G-05,100,1,AB-II
+"Sat07-Nov-2026",11:30-12:50,BCS-4B,B,47,CSC210,Professional Practices,Umar Sheraz,G-06,100,46,AB-II
+"Sat07-Nov-2026",11:30-12:50,BCS-4B,B,1,CSC410,Professional Practices,Umar Sheraz,G-05,100,1,AB-II
+"Sat07-Nov-2026",11:30-12:50,BCT-2A,A,60,CSC241,Object Oriented Programming,Mr. Yasir Munir,108,46,9,AB-II
+"Sat07-Nov-2026",11:30-12:50,BCT-2A,A,60,CSC241,Object Oriented Programming,Mr. Yasir Munir,109,46,23,AB-II
+Date,Time,Class,Sec,ST,Course,Title,Instructor,Room,Cap.,Occ.,Block
+"Sat07-Nov-2026",11:30-12:50,BCT-2A,A,60,CSC241,Object Oriented Programming,Mr. Yasir Munir,112,46,23,AB-II
+"Sat07-Nov-2026",11:30-12:50,BCT-2A,A,60,CSC241,Object Oriented Programming,Mr. Yasir Munir,G-05,100,5,AB-II
+"Sat07-Nov-2026",11:30-12:50,BCT-7A,A,1,CSC483,Topics in Computer Science II,Dr. Muhammad Imran,G-06,100,1,AB-II
+"Sat07-Nov-2026",11:30-12:50,BCT-7A,A,36,CYC386,Secure Software Design and Development,Muhammad Ahmad Nawaz,G-08,100,36,AB-II
+"Sat07-Nov-2026",11:30-12:50,BDS-7A,A,35,AIC380,Artificial Neural Networks and Deep Learning,Dr. Zobia Rehman,G-06,100,2,AB-II
+"Sat07-Nov-2026",11:30-12:50,BDS-7A,A,35,AIC380,Artificial Neural Networks and Deep Learning,Dr. Zobia Rehman,G-07,70,33,AB-II
+"Sat07-Nov-2026",11:30-12:50,BDS-7A,A,1,CSC483,Topics in Computer Science II,Qasim Malik,105,46,1,AB-II
+"Sat07-Nov-2026",11:30-12:50,BDS-8A,A,52,CSC410,Professional Practices,Umar Sheraz,G-06,100,3,AB-II
+"Sat07-Nov-2026",11:30-12:50,BDS-8A,A,52,CSC410,Professional Practices,Umar Sheraz,G-08,100,49,AB-II
+"Sat07-Nov-2026",11:30-12:50,BS-R,R,45,CSC241,Object Oriented Programming,Mr. Yasir Munir,G-05,100,45,AB-II
+"Sat07-Nov-2026",11:30-12:50,BSE-2A,A,52,CSC241,Object Oriented Programming,Mr. Muzaffar Iqbal,106,50,25,AB-II
+"Sat07-Nov-2026",11:30-12:50,BSE-2A,A,52,CSC241,Object Oriented Programming,Mr. Muzaffar Iqbal,107,50,2,AB-II
+"Sat07-Nov-2026",11:30-12:50,BSE-2A,A,52,CSC241,Object Oriented Programming,Mr. Muzaffar Iqbal,110,50,25,AB-II
+"Sat07-Nov-2026",11:30-12:50,BSE-3A,A,2,EEE241,Digital Logic Design,Dr. Ahmed Naseem Alvi,G-08,100,2,AB-II
+"Sat07-Nov-2026",11:30-12:50,BSE-3B,B,1,EEE241,Digital Logic Design,Afaq ur Rahman,109,46,1,AB-II
+"Sat07-Nov-2026",11:30-12:50,BSE-3B,B,1,EEE241,Digital Logic Design,Afaq ur Rahman,109,46,1,AB-II
+"Sat07-Nov-2026",11:30-12:50,BSE-4A,A,44,CSC210,Professional Practices,Sana Nasir,109,46,19,AB-II
+"Sat07-Nov-2026",11:30-12:50,BSE-4A,A,44,CSC210,Professional Practices,Sana Nasir,110,50,25,AB-II
+Date,Time,Class,Sec,ST,Course,Title,Instructor,Room,Cap.,Occ.,Block
+"Sat07-Nov-2026",11:30-12:50,BSE-4A,A,1,CSC410,Professional Practices,Sana Nasir,109,46,1,AB-II
+"Sat07-Nov-2026",11:30-12:50,F,F,5,MTH242,Differential Equations,Moneeza Batool,112,46,5,AB-II
+"Sat07-Nov-2026",11:30-12:50,F,F,14,MTH242,Differential Equations,Moneeza Batool,112,46,14,AB-II
+"Sat07-Nov-2026",11:30-12:50,F,F,5,MTH242,Differential Equations,Dr. Qudrat Khan,G-07,70,5,AB-II
+"Sat07-Nov-2026",13:00-14:20,BCS-1B,B,50,HUM222,Fundamentals of International Relations,Atiq ur Rehman,105,46,23,AB-II
+"Sat07-Nov-2026",13:00-14:20,BCS-1B,B,50,HUM222,Fundamentals of International Relations,Atiq ur Rehman,G-05,100,27,AB-II
+"Sat07-Nov-2026",13:00-14:20,BCT-1A,A,53,HUM222,Fundamentals of International Relations,Atiq ur Rehman,G-05,100,12,AB-II
+"Sat07-Nov-2026",13:00-14:20,BCT-1A,A,53,HUM222,Fundamentals of International Relations,Atiq ur Rehman,G-06,100,41,AB-II
+"Sat07-Nov-2026",13:00-14:20,BSE-1A,A,59,HUM222,Fundamentals of International Relations,Atiq ur Rehman,G-06,100,9,AB-II
+"Sat07-Nov-2026",13:00-14:20,BSE-1A,A,59,HUM222,Fundamentals of International Relations,Atiq ur Rehman,G-08,100,50,AB-II
+"Sat07-Nov-2026",13:00-14:20,—,A,1,CSC392,Software Design Methodologies,Mr. Tehseen Riaz Abbasi,G-05,100,1,AB-II
+"Sat07-Nov-2026",14:30-15:50,BAI-2A,A,34,MTH092,Pre-Calculus II,Dr. Zahoor Shah,108,46,13,AB-II
+"Sat07-Nov-2026",14:30-15:50,BAI-2A,A,34,MTH092,Pre-Calculus II,Dr. Zahoor Shah,G-08,100,21,AB-II
+"Sat07-Nov-2026",14:30-15:50,BAI-5A,A,53,CSC323,Operating Systems,Memoona Malik,106,50,25,AB-II
+"Sat07-Nov-2026",14:30-15:50,BAI-5A,A,53,CSC323,Operating Systems,Memoona Malik,111,50,25,AB-II
+"Sat07-Nov-2026",14:30-15:50,BAI-5A,A,53,CSC323,Operating Systems,Memoona Malik,G-05,100,3,AB-II
+"Sat07-Nov-2026",14:30-15:50,BCS-2A,A,39,MTH092,Pre-Calculus II,Tariq Hussain,106,50,19,AB-II
+"Sat07-Nov-2026",14:30-15:50,BCS-2A,A,39,MTH092,Pre-Calculus II,Tariq Hussain,110,50,20,AB-II
+Date,Time,Class,Sec,ST,Course,Title,Instructor,Room,Cap.,Occ.,Block
+"Sat07-Nov-2026",14:30-15:50,BCS-2B,B,32,MTH092,Pre-Calculus II,Tariq Hussain,110,50,5,AB-II
+"Sat07-Nov-2026",14:30-15:50,BCS-2B,B,32,MTH092,Pre-Calculus II,Tariq Hussain,111,50,25,AB-II
+"Sat07-Nov-2026",14:30-15:50,BCS-2B,B,32,MTH092,Pre-Calculus II,Tariq Hussain,G-06,100,2,AB-II
+"Sat07-Nov-2026",14:30-15:50,BCS-5A,A,61,CSC323,Operating Systems,Zahida,107,50,25,AB-II
+"Sat07-Nov-2026",14:30-15:50,BCS-5A,A,61,CSC323,Operating Systems,Zahida,G-06,100,36,AB-II
+"Sat07-Nov-2026",14:30-15:50,BCS-5B,B,1,CSC322,Operating Systems,Zahida,G-06,100,1,AB-II
+"Sat07-Nov-2026",14:30-15:50,BCS-5B,B,46,CSC323,Operating Systems,Zahida,G-06,100,12,AB-II
+"Sat07-Nov-2026",14:30-15:50,BCS-5B,B,46,CSC323,Operating Systems,Zahida,G-07,70,34,AB-II
+"Sat07-Nov-2026",14:30-15:50,BCS-5B,B,1,CSC323,Principles of Operating Systems,Zahida,G-07,70,1,AB-II
+"Sat07-Nov-2026",14:30-15:50,BCT-2A,A,40,MTH092,Pre-Calculus II,Tariq Hussain,G-06,100,40,AB-II
+"Sat07-Nov-2026",14:30-15:50,BDS-2A,A,29,MTH092,Pre-Calculus II,Dr. Zahoor Shah,G-08,100,29,AB-II
+"Sat07-Nov-2026",14:30-15:50,BDS-4A,A,1,CSC354,Machine Learning,Shafaq Rasheed,108,46,1,AB-II
+"Sat07-Nov-2026",14:30-15:50,BDS-5A,A,50,CSC323,Operating Systems,Zahida,G-08,100,50,AB-II
+"Sat07-Nov-2026",14:30-15:50,BDS-6A,A,49,DSC327,Data Visualization Techniques,Dr. Sheneela Naz,107,50,24,AB-II
+"Sat07-Nov-2026",14:30-15:50,BDS-6A,A,49,DSC327,Data Visualization Techniques,Dr. Sheneela Naz,110,50,25,AB-II
+"Sat07-Nov-2026",14:30-15:50,BSE-2A,A,43,MTH092,Pre-Calculus II,Tariq Hussain,G-06,100,8,AB-II
+"Sat07-Nov-2026",14:30-15:50,BSE-2A,A,43,MTH092,Pre-Calculus II,Tariq Hussain,G-07,70,35,AB-II
+"Sat07-Nov-2026",14:30-15:50,BSE-4A,A,51,CSE305,Software Requirement Engineering,Atique Ahmad Zafar,105,46,20,AB-II
+Date,Time,Class,Sec,ST,Course,Title,Instructor,Room,Cap.,Occ.,Block
+"Sat07-Nov-2026",14:30-15:50,BSE-4A,A,51,CSE305,Software Requirement Engineering,Atique Ahmad Zafar,108,46,8,AB-II
+"Sat07-Nov-2026",14:30-15:50,BSE-4A,A,51,CSE305,Software Requirement Engineering,Atique Ahmad Zafar,109,46,23,AB-II
+"Sat07-Nov-2026",14:30-15:50,BSE-5A,A,47,CSC323,Operating Systems,Memoona Malik,G-05,100,47,AB-II
+"Sat07-Nov-2026",14:30-15:50,BSE-7A,A,38,CSC334,Parallel and Distributed Computing,Dr. Muhammad Imran,105,46,20,AB-II
+"Sat07-Nov-2026",14:30-15:50,BSE-7A,A,38,CSC334,Parallel and Distributed Computing,Dr. Muhammad Imran,109,46,18,AB-II
+"Sat07-Nov-2026",14:30-15:50,BSE-7B,B,52,CSC334,Parallel and Distributed Computing,Dr. Muhammad Imran,109,46,5,AB-II
+"Sat07-Nov-2026",14:30-15:50,BSE-7B,B,52,CSC334,Parallel and Distributed Computing,Dr. Muhammad Imran,G-05,100,47,AB-II
+"Sat07-Nov-2026",14:30-15:50,F,F,2,MGT210,Fundamentals of Marketing,Shahkar ullah Khan,105,46,2,AB-II
+"Sat07-Nov-2026",14:30-15:50,F,F,1,MGT350,Human Resource Management,Asma Shabir,106,50,1,AB-II
+"Mon09-Nov-2026",08:30-09:50,BCS-6AB,A,21,HUM122,Fundamentals of Psychology,Manahil Amjad,106,50,21,AB-II
